@@ -1,0 +1,27 @@
+class Solution
+{
+public:
+    // Function to count the frequency of all elements from 1 to N in the array.
+    vector<int> frequencyCount(vector<int> &arr)
+    {
+        vector<int> res;
+        int n = arr.size();
+        unordered_map<int, int> mpp;
+        for (int i = 0; i < n; i++)
+        {
+            mpp[arr[i]]++;
+        }
+        for (int i = 0; i < n; i++)
+        {
+            if (mpp.find(i + 1) != mpp.end())
+            {
+                res.push_back(mpp[i + 1]);
+            }
+            else
+            {
+                res.push_back(0);
+            }
+        }
+        return res;
+    }
+};
