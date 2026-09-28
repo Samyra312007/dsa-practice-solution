@@ -1,7 +1,7 @@
 # 📚 DSA Practice Solutions
 
 <p align="center">
-  <img alt="Total Solved" src="https://img.shields.io/badge/Total%20Solved-561-brightgreen?style=for-the-badge">
+  <img alt="Total Solved" src="https://img.shields.io/badge/Total%20Solved-562-brightgreen?style=for-the-badge">
 </p>
 
 A curated collection of my Data Structures & Algorithms practice solutions, organized by the platform they were solved on. Every file is a **100% accepted (solved) submission** — the direct link to the original problem statement is provided next to each solution so you can read the question and try it yourself.
@@ -10,17 +10,17 @@ A curated collection of my Data Structures & Algorithms practice solutions, orga
 
 | Platform | Solutions | Directory |
 | :--- | :---: | :--- |
-| [Leetcode](#leetcode) | **333** | `leetcode/` |
+| [Leetcode](#leetcode) | **334** | `leetcode/` |
 | [GeeksforGeeks](#geeksforgeeks) | **199** | `geeks_for_geeks/` |
 | [Coding Ninjas](#coding-ninjas) | **27** | `coding_ninjas/` |
 | [InterviewBit](#interviewbit) | **2** | `interview_bit/` |
-| **Total** | **561** | — |
+| **Total** | **562** | — |
 
 ## 🗂️ Repository Structure
 
 ```text
 dsa-practice-solution/
-├── leetcode/            # Leetcode solutions (333)
+├── leetcode/            # Leetcode solutions (334)
 ├── geeks_for_geeks/     # GeeksforGeeks solutions (199)
 ├── coding_ninjas/       # Coding Ninjas solutions (27)
 ├── interview_bit/       # InterviewBit solutions (2)
@@ -38,11 +38,11 @@ dsa-practice-solution/
 ## Leetcode
 
 <p align="left">
-  <img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-333%20solved-blue?style=for-the-badge">
+  <img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-334%20solved-blue?style=for-the-badge">
   <a href="https://leetcode.com/problemset/"><img alt="Practice more" src="https://img.shields.io/badge/Browse%20more%20problems-Leetcode-orange?style=for-the-badge"></a>
 </p>
 
-**333 problems solved on Leetcode.**
+**334 problems solved on Leetcode.**
 
 | # | Solution File | Question | Status |
 | :---: | :--- | :--- | :---: |
@@ -235,150 +235,151 @@ dsa-practice-solution/
 | 187 | [`maximum_depth_of_binary_tree.cpp`](./leetcode/maximum_depth_of_binary_tree.cpp) | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | ✅ Solved |
 | 188 | [`maximum_difference_between_increasing_elements.cpp`](./leetcode/maximum_difference_between_increasing_elements.cpp) | [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) | ✅ Solved |
 | 189 | [`maximum_distance_between_a_pair_of_values.cpp`](./leetcode/maximum_distance_between_a_pair_of_values.cpp) | [Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) | ✅ Solved |
-| 190 | [`maximum_points_you_can_obtain_from_cards.cpp`](./leetcode/maximum_points_you_can_obtain_from_cards.cpp) | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | ✅ Solved |
-| 191 | [`maximum_product_of_two_elements_in_an_array.cpp`](./leetcode/maximum_product_of_two_elements_in_an_array.cpp) | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | ✅ Solved |
-| 192 | [`maximum_subarray_sum.cpp`](./leetcode/maximum_subarray_sum.cpp) | [Maximum Good Subarray Sum](https://leetcode.com/problems/maximum-good-subarray-sum/) | ✅ Solved |
-| 193 | [`maximum_sum_bst_in_bt.cpp`](./leetcode/maximum_sum_bst_in_bt.cpp) | [Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/) | ✅ Solved |
-| 194 | [`maximum_total_subarray_value.cpp`](./leetcode/maximum_total_subarray_value.cpp) | [Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i/) | ✅ Solved |
-| 195 | [`maximum_width_of_binary_tree.cpp`](./leetcode/maximum_width_of_binary_tree.cpp) | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | ✅ Solved |
-| 196 | [`median_of_two_sorted_arrays.cpp`](./leetcode/median_of_two_sorted_arrays.cpp) | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | ✅ Solved |
-| 197 | [`merge_intervals.cpp`](./leetcode/merge_intervals.cpp) | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | ✅ Solved |
-| 198 | [`merge_k_sorted_lists.cpp`](./leetcode/merge_k_sorted_lists.cpp) | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | ✅ Solved |
-| 199 | [`merge_sorted_array.cpp`](./leetcode/merge_sorted_array.cpp) | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | ✅ Solved |
-| 200 | [`merge_two_sorted_lists.cpp`](./leetcode/merge_two_sorted_lists.cpp) | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | ✅ Solved |
-| 201 | [`middle_of_the_ll.cpp`](./leetcode/middle_of_the_ll.cpp) | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | ✅ Solved |
-| 202 | [`min_cost_to_cut_a_stick.cpp`](./leetcode/min_cost_to_cut_a_stick.cpp) | [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) | ✅ Solved |
-| 203 | [`min_num_to_make_alternate_binary_string.cpp`](./leetcode/min_num_to_make_alternate_binary_string.cpp) | [Minimum Number of Flips to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/) | ✅ Solved |
-| 204 | [`min_operations_to_exceed_threshold_value1.cpp`](./leetcode/min_operations_to_exceed_threshold_value1.cpp) | [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/) | ✅ Solved |
-| 205 | [`minimum_absolute_difference_in_bst.cpp`](./leetcode/minimum_absolute_difference_in_bst.cpp) | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | ✅ Solved |
-| 206 | [`minimum_bit_flips_to_convert_number.cpp`](./leetcode/minimum_bit_flips_to_convert_number.cpp) | [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | ✅ Solved |
-| 207 | [`minimum_coins.cpp`](./leetcode/minimum_coins.cpp) | [Minimum Number of Coins to be Added](https://leetcode.com/problems/minimum-number-of-coins-to-be-added/) | ✅ Solved |
-| 208 | [`minimum_distance_between_bst_nodes.cpp`](./leetcode/minimum_distance_between_bst_nodes.cpp) | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | ✅ Solved |
-| 209 | [`minimum_insertions_to_make_a_string_palindromic.cpp`](./leetcode/minimum_insertions_to_make_a_string_palindromic.cpp) | [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | ✅ Solved |
-| 210 | [`minimum_number_game.cpp`](./leetcode/minimum_number_game.cpp) | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/) | ✅ Solved |
-| 211 | [`minimum_operations_to_make_array_sum_divisible_by_k.cpp`](./leetcode/minimum_operations_to_make_array_sum_divisible_by_k.cpp) | [Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/) | ✅ Solved |
-| 212 | [`minimum_time_visiting_all_points.cpp`](./leetcode/minimum_time_visiting_all_points.cpp) | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | ✅ Solved |
-| 213 | [`minimum_window_substring.cpp`](./leetcode/minimum_window_substring.cpp) | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | ✅ Solved |
-| 214 | [`most_frequent_even_element.cpp`](./leetcode/most_frequent_even_element.cpp) | [Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/) | ✅ Solved |
-| 215 | [`move_zeroes.cpp`](./leetcode/move_zeroes.cpp) | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | ✅ Solved |
-| 216 | [`n_repeated_element_in_size_2n_array.cpp`](./leetcode/n_repeated_element_in_size_2n_array.cpp) | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | ✅ Solved |
-| 217 | [`next_permutation.cpp`](./leetcode/next_permutation.cpp) | [Next Permutation](https://leetcode.com/problems/next-permutation/) | ✅ Solved |
-| 218 | [`no_of_lis.cpp`](./leetcode/no_of_lis.cpp) | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | ✅ Solved |
-| 219 | [`non-overlapping_intervals.cpp`](./leetcode/non-overlapping_intervals.cpp) | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | ✅ Solved |
-| 220 | [`nqueens.cpp`](./leetcode/nqueens.cpp) | [N-Queens](https://leetcode.com/problems/n-queens/) | ✅ Solved |
-| 221 | [`nth_tribonnaci_number.cpp`](./leetcode/nth_tribonnaci_number.cpp) | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | ✅ Solved |
-| 222 | [`number_complement.cpp`](./leetcode/number_complement.cpp) | [Number Complement](https://leetcode.com/problems/number-complement/) | ✅ Solved |
-| 223 | [`number_of_1_bits.cpp`](./leetcode/number_of_1_bits.cpp) | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | ✅ Solved |
-| 224 | [`number_of_conclaves.cpp`](./leetcode/number_of_conclaves.cpp) | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | ✅ Solved |
-| 225 | [`number_of_provinces.cpp`](./leetcode/number_of_provinces.cpp) | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | ✅ Solved |
-| 226 | [`number_of_substrings_containing_all_three_characters.cpp`](./leetcode/number_of_substrings_containing_all_three_characters.cpp) | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | ✅ Solved |
-| 227 | [`odd_even_ll.cpp`](./leetcode/odd_even_ll.cpp) | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | ✅ Solved |
-| 228 | [`palindrome_ll.cpp`](./leetcode/palindrome_ll.cpp) | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | ✅ Solved |
-| 229 | [`palindrome_number.cpp`](./leetcode/palindrome_number.cpp) | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | ✅ Solved |
-| 230 | [`palindrome_partitioning.cpp`](./leetcode/palindrome_partitioning.cpp) | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | ✅ Solved |
-| 231 | [`palindrome_partitioning_2.cpp`](./leetcode/palindrome_partitioning_2.cpp) | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | ✅ Solved |
-| 232 | [`partition_array_according_to_given_pivot.cpp`](./leetcode/partition_array_according_to_given_pivot.cpp) | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | ✅ Solved |
-| 233 | [`partition_array_for_maximum_sum.cpp`](./leetcode/partition_array_for_maximum_sum.cpp) | [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | ✅ Solved |
-| 234 | [`partition_array_into_k_distinct_groups.cpp`](./leetcode/partition_array_into_k_distinct_groups.cpp) | [Partition Array Into K-Distinct Groups](https://leetcode.com/problems/partition-array-into-k-distinct-groups/) | ✅ Solved |
-| 235 | [`partition_equal_subset_sum.cpp`](./leetcode/partition_equal_subset_sum.cpp) | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | ✅ Solved |
-| 236 | [`pascals_triangle.cpp`](./leetcode/pascals_triangle.cpp) | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | ✅ Solved |
-| 237 | [`peak_index_a_mountain_array.cpp`](./leetcode/peak_index_a_mountain_array.cpp) | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | ✅ Solved |
-| 238 | [`permutation_sequence.cpp`](./leetcode/permutation_sequence.cpp) | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | ✅ Solved |
-| 239 | [`permutations.cpp`](./leetcode/permutations.cpp) | [Permutations](https://leetcode.com/problems/permutations/) | ✅ Solved |
-| 240 | [`permutations_2.cpp`](./leetcode/permutations_2.cpp) | [Permutations II](https://leetcode.com/problems/permutations-ii/) | ✅ Solved |
-| 241 | [`plus_one.cpp`](./leetcode/plus_one.cpp) | [Plus One](https://leetcode.com/problems/plus-one/) | ✅ Solved |
-| 242 | [`pow(x,n).cpp`](./leetcode/pow(x,n).cpp) | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | ✅ Solved |
-| 243 | [`power_of_four.cpp`](./leetcode/power_of_four.cpp) | [Power of Four](https://leetcode.com/problems/power-of-four/) | ✅ Solved |
-| 244 | [`power_of_three.cpp`](./leetcode/power_of_three.cpp) | [Power of Three](https://leetcode.com/problems/power-of-three/) | ✅ Solved |
-| 245 | [`power_of_two.cpp`](./leetcode/power_of_two.cpp) | [Power of Two](https://leetcode.com/problems/power-of-two/) | ✅ Solved |
-| 246 | [`prime_in_diagonal.cpp`](./leetcode/prime_in_diagonal.cpp) | [Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal/) | ✅ Solved |
-| 247 | [`range_sum_of_bst.cpp`](./leetcode/range_sum_of_bst.cpp) | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | ✅ Solved |
-| 248 | [`rank_transform_an_array.cpp`](./leetcode/rank_transform_an_array.cpp) | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | ✅ Solved |
-| 249 | [`rearrange_array_elements_by_sign.cpp`](./leetcode/rearrange_array_elements_by_sign.cpp) | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | ✅ Solved |
-| 250 | [`recover_bst.cpp`](./leetcode/recover_bst.cpp) | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | ✅ Solved |
-| 251 | [`rectangle_overlap.cpp`](./leetcode/rectangle_overlap.cpp) | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | ✅ Solved |
-| 252 | [`remove_duplicates_from_sorted_array.c`](./leetcode/remove_duplicates_from_sorted_array.c) | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | ✅ Solved |
-| 253 | [`remove_element.cpp`](./leetcode/remove_element.cpp) | [Remove Element](https://leetcode.com/problems/remove-element/) | ✅ Solved |
-| 254 | [`remove_nth_node_from_ll.cpp`](./leetcode/remove_nth_node_from_ll.cpp) | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | ✅ Solved |
-| 255 | [`restore_finishing_order.cpp`](./leetcode/restore_finishing_order.cpp) | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order/) | ✅ Solved |
-| 256 | [`reverse_degree_of_a_string.cpp`](./leetcode/reverse_degree_of_a_string.cpp) | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | ✅ Solved |
-| 257 | [`reverse_ll.cpp`](./leetcode/reverse_ll.cpp) | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | ✅ Solved |
-| 258 | [`reverse_nodes_in_k_group.cpp`](./leetcode/reverse_nodes_in_k_group.cpp) | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | ✅ Solved |
-| 259 | [`reverse_only_letters.cpp`](./leetcode/reverse_only_letters.cpp) | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | ✅ Solved |
-| 260 | [`reverse_pairs.cpp`](./leetcode/reverse_pairs.cpp) | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | ✅ Solved |
-| 261 | [`reverse_string.cpp`](./leetcode/reverse_string.cpp) | [Reverse String](https://leetcode.com/problems/reverse-string/) | ✅ Solved |
-| 262 | [`reverse_vowels_in_a_string.cpp`](./leetcode/reverse_vowels_in_a_string.cpp) | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | ✅ Solved |
-| 263 | [`richest_customer_wealth.cpp`](./leetcode/richest_customer_wealth.cpp) | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | ✅ Solved |
-| 264 | [`root_equals_sum_of_children.cpp`](./leetcode/root_equals_sum_of_children.cpp) | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/) | ✅ Solved |
-| 265 | [`rotate_array.c`](./leetcode/rotate_array.c) | [Rotate Array](https://leetcode.com/problems/rotate-array/) | ✅ Solved |
-| 266 | [`rotate_image.c`](./leetcode/rotate_image.c) | [Rotate Image](https://leetcode.com/problems/rotate-image/) | ✅ Solved |
-| 267 | [`rotate_ll.cpp`](./leetcode/rotate_ll.cpp) | [Rotate List](https://leetcode.com/problems/rotate-list/) | ✅ Solved |
-| 268 | [`rotten_oranges.cpp`](./leetcode/rotten_oranges.cpp) | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | ✅ Solved |
-| 269 | [`same_tree.cpp`](./leetcode/same_tree.cpp) | [Same Tree](https://leetcode.com/problems/same-tree/) | ✅ Solved |
-| 270 | [`score_of_a_string.cpp`](./leetcode/score_of_a_string.cpp) | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | ✅ Solved |
-| 271 | [`scs.cpp`](./leetcode/scs.cpp) | [Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/) | ✅ Solved |
-| 272 | [`search_a_2d_matrix.cpp`](./leetcode/search_a_2d_matrix.cpp) | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | ✅ Solved |
-| 273 | [`search_a_2d_matrix_II.cpp`](./leetcode/search_a_2d_matrix_II.cpp) | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | ✅ Solved |
-| 274 | [`search_in_a_binary_search_tree.cpp`](./leetcode/search_in_a_binary_search_tree.cpp) | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | ✅ Solved |
-| 275 | [`search_in_rotated_sorted_array.cpp`](./leetcode/search_in_rotated_sorted_array.cpp) | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | ✅ Solved |
-| 276 | [`search_in_rotated_sorted_array2.cpp`](./leetcode/search_in_rotated_sorted_array2.cpp) | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | ✅ Solved |
-| 277 | [`search_insert_position.cpp`](./leetcode/search_insert_position.cpp) | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | ✅ Solved |
-| 278 | [`serialize_and_deserialize_binary_tree.cpp`](./leetcode/serialize_and_deserialize_binary_tree.cpp) | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | ✅ Solved |
-| 279 | [`set_matrix_zeroes.cpp`](./leetcode/set_matrix_zeroes.cpp) | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | ✅ Solved |
-| 280 | [`set_mismatch.cpp`](./leetcode/set_mismatch.cpp) | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | ✅ Solved |
-| 281 | [`shuffle_the_array.cpp`](./leetcode/shuffle_the_array.cpp) | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | ✅ Solved |
-| 282 | [`single_element_in_a_sorted_array.cpp`](./leetcode/single_element_in_a_sorted_array.cpp) | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | ✅ Solved |
-| 283 | [`single_number.cpp`](./leetcode/single_number.cpp) | [Single Number](https://leetcode.com/problems/single-number/) | ✅ Solved |
-| 284 | [`smallest_divisible_digit_prodduct1.cpp`](./leetcode/smallest_divisible_digit_prodduct1.cpp) | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | ✅ Solved |
-| 285 | [`smallest_even_multiple.cpp`](./leetcode/smallest_even_multiple.cpp) | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | ✅ Solved |
-| 286 | [`smallest_index_with_digit_sum_equal_to_index.cpp`](./leetcode/smallest_index_with_digit_sum_equal_to_index.cpp) | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | ✅ Solved |
-| 287 | [`smallest_missing_multiple_of_k.cpp`](./leetcode/smallest_missing_multiple_of_k.cpp) | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | ✅ Solved |
-| 288 | [`smallest_number_in_all_set_bits.cpp`](./leetcode/smallest_number_in_all_set_bits.cpp) | [Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/) | ✅ Solved |
-| 289 | [`smallest_palindromic_rearrangement1.cpp`](./leetcode/smallest_palindromic_rearrangement1.cpp) | [Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) | ✅ Solved |
-| 290 | [`smallest_range_covering_from_k_lists.cpp`](./leetcode/smallest_range_covering_from_k_lists.cpp) | [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | ✅ Solved |
-| 291 | [`smallest_stable_index2.cpp`](./leetcode/smallest_stable_index2.cpp) | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/) | ✅ Solved |
-| 292 | [`smallest_stable_index_1.cpp`](./leetcode/smallest_stable_index_1.cpp) | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/) | ✅ Solved |
-| 293 | [`sort_an_array.cpp`](./leetcode/sort_an_array.cpp) | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | ✅ Solved |
-| 294 | [`sort_colors.cpp`](./leetcode/sort_colors.cpp) | [Sort Colors](https://leetcode.com/problems/sort-colors/) | ✅ Solved |
-| 295 | [`sort_ll.cpp`](./leetcode/sort_ll.cpp) | [Sort List](https://leetcode.com/problems/sort-list/) | ✅ Solved |
-| 296 | [`special_positions_in_a_binary_matrix.cpp`](./leetcode/special_positions_in_a_binary_matrix.cpp) | [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | ✅ Solved |
-| 297 | [`spiral_matrix.cpp`](./leetcode/spiral_matrix.cpp) | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | ✅ Solved |
-| 298 | [`sqrt(x).cpp`](./leetcode/sqrt(x).cpp) | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | ✅ Solved |
-| 299 | [`strictly_palindromic_number.cpp`](./leetcode/strictly_palindromic_number.cpp) | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | ✅ Solved |
-| 300 | [`string_to_integer_atoi.cpp`](./leetcode/string_to_integer_atoi.cpp) | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | ✅ Solved |
-| 301 | [`subarray_sum_equals_k.cpp`](./leetcode/subarray_sum_equals_k.cpp) | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | ✅ Solved |
-| 302 | [`subarray_with_k_different_integers.cpp`](./leetcode/subarray_with_k_different_integers.cpp) | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | ✅ Solved |
-| 303 | [`subsets.cpp`](./leetcode/subsets.cpp) | [Subsets](https://leetcode.com/problems/subsets/) | ✅ Solved |
-| 304 | [`subsets_2.cpp`](./leetcode/subsets_2.cpp) | [Subsets II](https://leetcode.com/problems/subsets-ii/) | ✅ Solved |
-| 305 | [`subtract_the_sum_of_digits_and_multiplication_of_digits.cpp`](./leetcode/subtract_the_sum_of_digits_and_multiplication_of_digits.cpp) | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | ✅ Solved |
-| 306 | [`sudoku_solver.cpp`](./leetcode/sudoku_solver.cpp) | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | ✅ Solved |
-| 307 | [`sum_multiples.cpp`](./leetcode/sum_multiples.cpp) | [Sum Multiples](https://leetcode.com/problems/sum-multiples/) | ✅ Solved |
-| 308 | [`sum_of_distances.cpp`](./leetcode/sum_of_distances.cpp) | [Sum of Distances](https://leetcode.com/problems/sum-of-distances/) | ✅ Solved |
-| 309 | [`sum_of_unique_elements.cpp`](./leetcode/sum_of_unique_elements.cpp) | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | ✅ Solved |
-| 310 | [`surrounded_regions.cpp`](./leetcode/surrounded_regions.cpp) | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | ✅ Solved |
-| 311 | [`symmetric_tree.cpp`](./leetcode/symmetric_tree.cpp) | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | ✅ Solved |
-| 312 | [`take_gifts_from_richest_pile.cpp`](./leetcode/take_gifts_from_richest_pile.cpp) | [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/) | ✅ Solved |
-| 313 | [`target_sum.cpp`](./leetcode/target_sum.cpp) | [Target Sum](https://leetcode.com/problems/target-sum/) | ✅ Solved |
-| 314 | [`the_two_sneaky_digits_of_digitville.cpp`](./leetcode/the_two_sneaky_digits_of_digitville.cpp) | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | ✅ Solved |
-| 315 | [`to_lower_case.cpp`](./leetcode/to_lower_case.cpp) | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | ✅ Solved |
-| 316 | [`two_furthest_house_with_different_colors.cpp`](./leetcode/two_furthest_house_with_different_colors.cpp) | [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/) | ✅ Solved |
-| 317 | [`two_sum_input_is_a_bst.cpp`](./leetcode/two_sum_input_is_a_bst.cpp) | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | ✅ Solved |
-| 318 | [`ugly_number.cpp`](./leetcode/ugly_number.cpp) | [Ugly Number](https://leetcode.com/problems/ugly-number/) | ✅ Solved |
-| 319 | [`unique_paths.cpp`](./leetcode/unique_paths.cpp) | [Unique Paths](https://leetcode.com/problems/unique-paths/) | ✅ Solved |
-| 320 | [`unique_paths2.cpp`](./leetcode/unique_paths2.cpp) | [Unique Paths](https://leetcode.com/problems/unique-paths/) | ✅ Solved |
-| 321 | [`unique_three_digits_even_number.cpp`](./leetcode/unique_three_digits_even_number.cpp) | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) | ✅ Solved |
-| 322 | [`valid_anagram.cpp`](./leetcode/valid_anagram.cpp) | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | ✅ Solved |
-| 323 | [`valid_palindrome.cpp`](./leetcode/valid_palindrome.cpp) | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | ✅ Solved |
-| 324 | [`valid_parentheses.cpp`](./leetcode/valid_parentheses.cpp) | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ✅ Solved |
-| 325 | [`valid_parenthesis_string.cpp`](./leetcode/valid_parenthesis_string.cpp) | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | ✅ Solved |
-| 326 | [`valid_sudoku.cpp`](./leetcode/valid_sudoku.cpp) | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | ✅ Solved |
-| 327 | [`valid_word.cpp`](./leetcode/valid_word.cpp) | [Valid Word](https://leetcode.com/problems/valid-word/) | ✅ Solved |
-| 328 | [`validate_binary_search_tree.cpp`](./leetcode/validate_binary_search_tree.cpp) | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | ✅ Solved |
-| 329 | [`water_and_jug_problem.cpp`](./leetcode/water_and_jug_problem.cpp) | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/) | ✅ Solved |
-| 330 | [`water_bottles.cpp`](./leetcode/water_bottles.cpp) | [Water Bottles](https://leetcode.com/problems/water-bottles/) | ✅ Solved |
-| 331 | [`wildcard_matching.cpp`](./leetcode/wildcard_matching.cpp) | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | ✅ Solved |
-| 332 | [`words_within_two_edits_of_dictionary.cpp`](./leetcode/words_within_two_edits_of_dictionary.cpp) | [Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/) | ✅ Solved |
-| 333 | [`xor_operation_on_array.cpp`](./leetcode/xor_operation_on_array.cpp) | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | ✅ Solved |
+| 190 | [`maximum_nesting_depth_of_the_parentheses.cpp`](./leetcode/maximum_nesting_depth_of_the_parentheses.cpp) | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | ✅ Solved |
+| 191 | [`maximum_points_you_can_obtain_from_cards.cpp`](./leetcode/maximum_points_you_can_obtain_from_cards.cpp) | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | ✅ Solved |
+| 192 | [`maximum_product_of_two_elements_in_an_array.cpp`](./leetcode/maximum_product_of_two_elements_in_an_array.cpp) | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | ✅ Solved |
+| 193 | [`maximum_subarray_sum.cpp`](./leetcode/maximum_subarray_sum.cpp) | [Maximum Good Subarray Sum](https://leetcode.com/problems/maximum-good-subarray-sum/) | ✅ Solved |
+| 194 | [`maximum_sum_bst_in_bt.cpp`](./leetcode/maximum_sum_bst_in_bt.cpp) | [Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/) | ✅ Solved |
+| 195 | [`maximum_total_subarray_value.cpp`](./leetcode/maximum_total_subarray_value.cpp) | [Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i/) | ✅ Solved |
+| 196 | [`maximum_width_of_binary_tree.cpp`](./leetcode/maximum_width_of_binary_tree.cpp) | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | ✅ Solved |
+| 197 | [`median_of_two_sorted_arrays.cpp`](./leetcode/median_of_two_sorted_arrays.cpp) | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | ✅ Solved |
+| 198 | [`merge_intervals.cpp`](./leetcode/merge_intervals.cpp) | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | ✅ Solved |
+| 199 | [`merge_k_sorted_lists.cpp`](./leetcode/merge_k_sorted_lists.cpp) | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | ✅ Solved |
+| 200 | [`merge_sorted_array.cpp`](./leetcode/merge_sorted_array.cpp) | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | ✅ Solved |
+| 201 | [`merge_two_sorted_lists.cpp`](./leetcode/merge_two_sorted_lists.cpp) | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | ✅ Solved |
+| 202 | [`middle_of_the_ll.cpp`](./leetcode/middle_of_the_ll.cpp) | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | ✅ Solved |
+| 203 | [`min_cost_to_cut_a_stick.cpp`](./leetcode/min_cost_to_cut_a_stick.cpp) | [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) | ✅ Solved |
+| 204 | [`min_num_to_make_alternate_binary_string.cpp`](./leetcode/min_num_to_make_alternate_binary_string.cpp) | [Minimum Number of Flips to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/) | ✅ Solved |
+| 205 | [`min_operations_to_exceed_threshold_value1.cpp`](./leetcode/min_operations_to_exceed_threshold_value1.cpp) | [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/) | ✅ Solved |
+| 206 | [`minimum_absolute_difference_in_bst.cpp`](./leetcode/minimum_absolute_difference_in_bst.cpp) | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | ✅ Solved |
+| 207 | [`minimum_bit_flips_to_convert_number.cpp`](./leetcode/minimum_bit_flips_to_convert_number.cpp) | [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | ✅ Solved |
+| 208 | [`minimum_coins.cpp`](./leetcode/minimum_coins.cpp) | [Minimum Number of Coins to be Added](https://leetcode.com/problems/minimum-number-of-coins-to-be-added/) | ✅ Solved |
+| 209 | [`minimum_distance_between_bst_nodes.cpp`](./leetcode/minimum_distance_between_bst_nodes.cpp) | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | ✅ Solved |
+| 210 | [`minimum_insertions_to_make_a_string_palindromic.cpp`](./leetcode/minimum_insertions_to_make_a_string_palindromic.cpp) | [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | ✅ Solved |
+| 211 | [`minimum_number_game.cpp`](./leetcode/minimum_number_game.cpp) | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/) | ✅ Solved |
+| 212 | [`minimum_operations_to_make_array_sum_divisible_by_k.cpp`](./leetcode/minimum_operations_to_make_array_sum_divisible_by_k.cpp) | [Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/) | ✅ Solved |
+| 213 | [`minimum_time_visiting_all_points.cpp`](./leetcode/minimum_time_visiting_all_points.cpp) | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | ✅ Solved |
+| 214 | [`minimum_window_substring.cpp`](./leetcode/minimum_window_substring.cpp) | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | ✅ Solved |
+| 215 | [`most_frequent_even_element.cpp`](./leetcode/most_frequent_even_element.cpp) | [Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/) | ✅ Solved |
+| 216 | [`move_zeroes.cpp`](./leetcode/move_zeroes.cpp) | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | ✅ Solved |
+| 217 | [`n_repeated_element_in_size_2n_array.cpp`](./leetcode/n_repeated_element_in_size_2n_array.cpp) | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | ✅ Solved |
+| 218 | [`next_permutation.cpp`](./leetcode/next_permutation.cpp) | [Next Permutation](https://leetcode.com/problems/next-permutation/) | ✅ Solved |
+| 219 | [`no_of_lis.cpp`](./leetcode/no_of_lis.cpp) | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | ✅ Solved |
+| 220 | [`non-overlapping_intervals.cpp`](./leetcode/non-overlapping_intervals.cpp) | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | ✅ Solved |
+| 221 | [`nqueens.cpp`](./leetcode/nqueens.cpp) | [N-Queens](https://leetcode.com/problems/n-queens/) | ✅ Solved |
+| 222 | [`nth_tribonnaci_number.cpp`](./leetcode/nth_tribonnaci_number.cpp) | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | ✅ Solved |
+| 223 | [`number_complement.cpp`](./leetcode/number_complement.cpp) | [Number Complement](https://leetcode.com/problems/number-complement/) | ✅ Solved |
+| 224 | [`number_of_1_bits.cpp`](./leetcode/number_of_1_bits.cpp) | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | ✅ Solved |
+| 225 | [`number_of_conclaves.cpp`](./leetcode/number_of_conclaves.cpp) | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | ✅ Solved |
+| 226 | [`number_of_provinces.cpp`](./leetcode/number_of_provinces.cpp) | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | ✅ Solved |
+| 227 | [`number_of_substrings_containing_all_three_characters.cpp`](./leetcode/number_of_substrings_containing_all_three_characters.cpp) | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | ✅ Solved |
+| 228 | [`odd_even_ll.cpp`](./leetcode/odd_even_ll.cpp) | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | ✅ Solved |
+| 229 | [`palindrome_ll.cpp`](./leetcode/palindrome_ll.cpp) | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | ✅ Solved |
+| 230 | [`palindrome_number.cpp`](./leetcode/palindrome_number.cpp) | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | ✅ Solved |
+| 231 | [`palindrome_partitioning.cpp`](./leetcode/palindrome_partitioning.cpp) | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | ✅ Solved |
+| 232 | [`palindrome_partitioning_2.cpp`](./leetcode/palindrome_partitioning_2.cpp) | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | ✅ Solved |
+| 233 | [`partition_array_according_to_given_pivot.cpp`](./leetcode/partition_array_according_to_given_pivot.cpp) | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | ✅ Solved |
+| 234 | [`partition_array_for_maximum_sum.cpp`](./leetcode/partition_array_for_maximum_sum.cpp) | [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | ✅ Solved |
+| 235 | [`partition_array_into_k_distinct_groups.cpp`](./leetcode/partition_array_into_k_distinct_groups.cpp) | [Partition Array Into K-Distinct Groups](https://leetcode.com/problems/partition-array-into-k-distinct-groups/) | ✅ Solved |
+| 236 | [`partition_equal_subset_sum.cpp`](./leetcode/partition_equal_subset_sum.cpp) | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | ✅ Solved |
+| 237 | [`pascals_triangle.cpp`](./leetcode/pascals_triangle.cpp) | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | ✅ Solved |
+| 238 | [`peak_index_a_mountain_array.cpp`](./leetcode/peak_index_a_mountain_array.cpp) | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | ✅ Solved |
+| 239 | [`permutation_sequence.cpp`](./leetcode/permutation_sequence.cpp) | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | ✅ Solved |
+| 240 | [`permutations.cpp`](./leetcode/permutations.cpp) | [Permutations](https://leetcode.com/problems/permutations/) | ✅ Solved |
+| 241 | [`permutations_2.cpp`](./leetcode/permutations_2.cpp) | [Permutations II](https://leetcode.com/problems/permutations-ii/) | ✅ Solved |
+| 242 | [`plus_one.cpp`](./leetcode/plus_one.cpp) | [Plus One](https://leetcode.com/problems/plus-one/) | ✅ Solved |
+| 243 | [`pow(x,n).cpp`](./leetcode/pow(x,n).cpp) | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | ✅ Solved |
+| 244 | [`power_of_four.cpp`](./leetcode/power_of_four.cpp) | [Power of Four](https://leetcode.com/problems/power-of-four/) | ✅ Solved |
+| 245 | [`power_of_three.cpp`](./leetcode/power_of_three.cpp) | [Power of Three](https://leetcode.com/problems/power-of-three/) | ✅ Solved |
+| 246 | [`power_of_two.cpp`](./leetcode/power_of_two.cpp) | [Power of Two](https://leetcode.com/problems/power-of-two/) | ✅ Solved |
+| 247 | [`prime_in_diagonal.cpp`](./leetcode/prime_in_diagonal.cpp) | [Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal/) | ✅ Solved |
+| 248 | [`range_sum_of_bst.cpp`](./leetcode/range_sum_of_bst.cpp) | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | ✅ Solved |
+| 249 | [`rank_transform_an_array.cpp`](./leetcode/rank_transform_an_array.cpp) | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | ✅ Solved |
+| 250 | [`rearrange_array_elements_by_sign.cpp`](./leetcode/rearrange_array_elements_by_sign.cpp) | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | ✅ Solved |
+| 251 | [`recover_bst.cpp`](./leetcode/recover_bst.cpp) | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | ✅ Solved |
+| 252 | [`rectangle_overlap.cpp`](./leetcode/rectangle_overlap.cpp) | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | ✅ Solved |
+| 253 | [`remove_duplicates_from_sorted_array.c`](./leetcode/remove_duplicates_from_sorted_array.c) | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | ✅ Solved |
+| 254 | [`remove_element.cpp`](./leetcode/remove_element.cpp) | [Remove Element](https://leetcode.com/problems/remove-element/) | ✅ Solved |
+| 255 | [`remove_nth_node_from_ll.cpp`](./leetcode/remove_nth_node_from_ll.cpp) | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | ✅ Solved |
+| 256 | [`restore_finishing_order.cpp`](./leetcode/restore_finishing_order.cpp) | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order/) | ✅ Solved |
+| 257 | [`reverse_degree_of_a_string.cpp`](./leetcode/reverse_degree_of_a_string.cpp) | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | ✅ Solved |
+| 258 | [`reverse_ll.cpp`](./leetcode/reverse_ll.cpp) | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | ✅ Solved |
+| 259 | [`reverse_nodes_in_k_group.cpp`](./leetcode/reverse_nodes_in_k_group.cpp) | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | ✅ Solved |
+| 260 | [`reverse_only_letters.cpp`](./leetcode/reverse_only_letters.cpp) | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | ✅ Solved |
+| 261 | [`reverse_pairs.cpp`](./leetcode/reverse_pairs.cpp) | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | ✅ Solved |
+| 262 | [`reverse_string.cpp`](./leetcode/reverse_string.cpp) | [Reverse String](https://leetcode.com/problems/reverse-string/) | ✅ Solved |
+| 263 | [`reverse_vowels_in_a_string.cpp`](./leetcode/reverse_vowels_in_a_string.cpp) | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | ✅ Solved |
+| 264 | [`richest_customer_wealth.cpp`](./leetcode/richest_customer_wealth.cpp) | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | ✅ Solved |
+| 265 | [`root_equals_sum_of_children.cpp`](./leetcode/root_equals_sum_of_children.cpp) | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/) | ✅ Solved |
+| 266 | [`rotate_array.c`](./leetcode/rotate_array.c) | [Rotate Array](https://leetcode.com/problems/rotate-array/) | ✅ Solved |
+| 267 | [`rotate_image.c`](./leetcode/rotate_image.c) | [Rotate Image](https://leetcode.com/problems/rotate-image/) | ✅ Solved |
+| 268 | [`rotate_ll.cpp`](./leetcode/rotate_ll.cpp) | [Rotate List](https://leetcode.com/problems/rotate-list/) | ✅ Solved |
+| 269 | [`rotten_oranges.cpp`](./leetcode/rotten_oranges.cpp) | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | ✅ Solved |
+| 270 | [`same_tree.cpp`](./leetcode/same_tree.cpp) | [Same Tree](https://leetcode.com/problems/same-tree/) | ✅ Solved |
+| 271 | [`score_of_a_string.cpp`](./leetcode/score_of_a_string.cpp) | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | ✅ Solved |
+| 272 | [`scs.cpp`](./leetcode/scs.cpp) | [Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/) | ✅ Solved |
+| 273 | [`search_a_2d_matrix.cpp`](./leetcode/search_a_2d_matrix.cpp) | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | ✅ Solved |
+| 274 | [`search_a_2d_matrix_II.cpp`](./leetcode/search_a_2d_matrix_II.cpp) | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | ✅ Solved |
+| 275 | [`search_in_a_binary_search_tree.cpp`](./leetcode/search_in_a_binary_search_tree.cpp) | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | ✅ Solved |
+| 276 | [`search_in_rotated_sorted_array.cpp`](./leetcode/search_in_rotated_sorted_array.cpp) | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | ✅ Solved |
+| 277 | [`search_in_rotated_sorted_array2.cpp`](./leetcode/search_in_rotated_sorted_array2.cpp) | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | ✅ Solved |
+| 278 | [`search_insert_position.cpp`](./leetcode/search_insert_position.cpp) | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | ✅ Solved |
+| 279 | [`serialize_and_deserialize_binary_tree.cpp`](./leetcode/serialize_and_deserialize_binary_tree.cpp) | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | ✅ Solved |
+| 280 | [`set_matrix_zeroes.cpp`](./leetcode/set_matrix_zeroes.cpp) | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | ✅ Solved |
+| 281 | [`set_mismatch.cpp`](./leetcode/set_mismatch.cpp) | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | ✅ Solved |
+| 282 | [`shuffle_the_array.cpp`](./leetcode/shuffle_the_array.cpp) | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | ✅ Solved |
+| 283 | [`single_element_in_a_sorted_array.cpp`](./leetcode/single_element_in_a_sorted_array.cpp) | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | ✅ Solved |
+| 284 | [`single_number.cpp`](./leetcode/single_number.cpp) | [Single Number](https://leetcode.com/problems/single-number/) | ✅ Solved |
+| 285 | [`smallest_divisible_digit_prodduct1.cpp`](./leetcode/smallest_divisible_digit_prodduct1.cpp) | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | ✅ Solved |
+| 286 | [`smallest_even_multiple.cpp`](./leetcode/smallest_even_multiple.cpp) | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | ✅ Solved |
+| 287 | [`smallest_index_with_digit_sum_equal_to_index.cpp`](./leetcode/smallest_index_with_digit_sum_equal_to_index.cpp) | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | ✅ Solved |
+| 288 | [`smallest_missing_multiple_of_k.cpp`](./leetcode/smallest_missing_multiple_of_k.cpp) | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | ✅ Solved |
+| 289 | [`smallest_number_in_all_set_bits.cpp`](./leetcode/smallest_number_in_all_set_bits.cpp) | [Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/) | ✅ Solved |
+| 290 | [`smallest_palindromic_rearrangement1.cpp`](./leetcode/smallest_palindromic_rearrangement1.cpp) | [Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) | ✅ Solved |
+| 291 | [`smallest_range_covering_from_k_lists.cpp`](./leetcode/smallest_range_covering_from_k_lists.cpp) | [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | ✅ Solved |
+| 292 | [`smallest_stable_index2.cpp`](./leetcode/smallest_stable_index2.cpp) | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/) | ✅ Solved |
+| 293 | [`smallest_stable_index_1.cpp`](./leetcode/smallest_stable_index_1.cpp) | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/) | ✅ Solved |
+| 294 | [`sort_an_array.cpp`](./leetcode/sort_an_array.cpp) | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | ✅ Solved |
+| 295 | [`sort_colors.cpp`](./leetcode/sort_colors.cpp) | [Sort Colors](https://leetcode.com/problems/sort-colors/) | ✅ Solved |
+| 296 | [`sort_ll.cpp`](./leetcode/sort_ll.cpp) | [Sort List](https://leetcode.com/problems/sort-list/) | ✅ Solved |
+| 297 | [`special_positions_in_a_binary_matrix.cpp`](./leetcode/special_positions_in_a_binary_matrix.cpp) | [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | ✅ Solved |
+| 298 | [`spiral_matrix.cpp`](./leetcode/spiral_matrix.cpp) | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | ✅ Solved |
+| 299 | [`sqrt(x).cpp`](./leetcode/sqrt(x).cpp) | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | ✅ Solved |
+| 300 | [`strictly_palindromic_number.cpp`](./leetcode/strictly_palindromic_number.cpp) | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | ✅ Solved |
+| 301 | [`string_to_integer_atoi.cpp`](./leetcode/string_to_integer_atoi.cpp) | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | ✅ Solved |
+| 302 | [`subarray_sum_equals_k.cpp`](./leetcode/subarray_sum_equals_k.cpp) | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | ✅ Solved |
+| 303 | [`subarray_with_k_different_integers.cpp`](./leetcode/subarray_with_k_different_integers.cpp) | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | ✅ Solved |
+| 304 | [`subsets.cpp`](./leetcode/subsets.cpp) | [Subsets](https://leetcode.com/problems/subsets/) | ✅ Solved |
+| 305 | [`subsets_2.cpp`](./leetcode/subsets_2.cpp) | [Subsets II](https://leetcode.com/problems/subsets-ii/) | ✅ Solved |
+| 306 | [`subtract_the_sum_of_digits_and_multiplication_of_digits.cpp`](./leetcode/subtract_the_sum_of_digits_and_multiplication_of_digits.cpp) | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | ✅ Solved |
+| 307 | [`sudoku_solver.cpp`](./leetcode/sudoku_solver.cpp) | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | ✅ Solved |
+| 308 | [`sum_multiples.cpp`](./leetcode/sum_multiples.cpp) | [Sum Multiples](https://leetcode.com/problems/sum-multiples/) | ✅ Solved |
+| 309 | [`sum_of_distances.cpp`](./leetcode/sum_of_distances.cpp) | [Sum of Distances](https://leetcode.com/problems/sum-of-distances/) | ✅ Solved |
+| 310 | [`sum_of_unique_elements.cpp`](./leetcode/sum_of_unique_elements.cpp) | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | ✅ Solved |
+| 311 | [`surrounded_regions.cpp`](./leetcode/surrounded_regions.cpp) | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | ✅ Solved |
+| 312 | [`symmetric_tree.cpp`](./leetcode/symmetric_tree.cpp) | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | ✅ Solved |
+| 313 | [`take_gifts_from_richest_pile.cpp`](./leetcode/take_gifts_from_richest_pile.cpp) | [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/) | ✅ Solved |
+| 314 | [`target_sum.cpp`](./leetcode/target_sum.cpp) | [Target Sum](https://leetcode.com/problems/target-sum/) | ✅ Solved |
+| 315 | [`the_two_sneaky_digits_of_digitville.cpp`](./leetcode/the_two_sneaky_digits_of_digitville.cpp) | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | ✅ Solved |
+| 316 | [`to_lower_case.cpp`](./leetcode/to_lower_case.cpp) | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | ✅ Solved |
+| 317 | [`two_furthest_house_with_different_colors.cpp`](./leetcode/two_furthest_house_with_different_colors.cpp) | [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/) | ✅ Solved |
+| 318 | [`two_sum_input_is_a_bst.cpp`](./leetcode/two_sum_input_is_a_bst.cpp) | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | ✅ Solved |
+| 319 | [`ugly_number.cpp`](./leetcode/ugly_number.cpp) | [Ugly Number](https://leetcode.com/problems/ugly-number/) | ✅ Solved |
+| 320 | [`unique_paths.cpp`](./leetcode/unique_paths.cpp) | [Unique Paths](https://leetcode.com/problems/unique-paths/) | ✅ Solved |
+| 321 | [`unique_paths2.cpp`](./leetcode/unique_paths2.cpp) | [Unique Paths](https://leetcode.com/problems/unique-paths/) | ✅ Solved |
+| 322 | [`unique_three_digits_even_number.cpp`](./leetcode/unique_three_digits_even_number.cpp) | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) | ✅ Solved |
+| 323 | [`valid_anagram.cpp`](./leetcode/valid_anagram.cpp) | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | ✅ Solved |
+| 324 | [`valid_palindrome.cpp`](./leetcode/valid_palindrome.cpp) | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | ✅ Solved |
+| 325 | [`valid_parentheses.cpp`](./leetcode/valid_parentheses.cpp) | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ✅ Solved |
+| 326 | [`valid_parenthesis_string.cpp`](./leetcode/valid_parenthesis_string.cpp) | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | ✅ Solved |
+| 327 | [`valid_sudoku.cpp`](./leetcode/valid_sudoku.cpp) | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | ✅ Solved |
+| 328 | [`valid_word.cpp`](./leetcode/valid_word.cpp) | [Valid Word](https://leetcode.com/problems/valid-word/) | ✅ Solved |
+| 329 | [`validate_binary_search_tree.cpp`](./leetcode/validate_binary_search_tree.cpp) | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | ✅ Solved |
+| 330 | [`water_and_jug_problem.cpp`](./leetcode/water_and_jug_problem.cpp) | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/) | ✅ Solved |
+| 331 | [`water_bottles.cpp`](./leetcode/water_bottles.cpp) | [Water Bottles](https://leetcode.com/problems/water-bottles/) | ✅ Solved |
+| 332 | [`wildcard_matching.cpp`](./leetcode/wildcard_matching.cpp) | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | ✅ Solved |
+| 333 | [`words_within_two_edits_of_dictionary.cpp`](./leetcode/words_within_two_edits_of_dictionary.cpp) | [Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/) | ✅ Solved |
+| 334 | [`xor_operation_on_array.cpp`](./leetcode/xor_operation_on_array.cpp) | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | ✅ Solved |
 
 ## GeeksforGeeks
 
@@ -650,7 +651,7 @@ dsa-practice-solution/
 
 | Language | Files |
 | :--- | :---: |
-| `.cpp` | 554 |
+| `.cpp` | 555 |
 | `.c` | 3 |
 | `.py` | 1 |
 | `.js` | 1 |
