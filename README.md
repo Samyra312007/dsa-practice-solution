@@ -1,7 +1,7 @@
 # 📚 DSA Practice Solutions
 
 <p align="center">
-  <img alt="Total Solved" src="https://img.shields.io/badge/Total%20Solved-562-brightgreen?style=for-the-badge">
+  <img alt="Total Solved" src="https://img.shields.io/badge/Total%20Solved-563-brightgreen?style=for-the-badge">
 </p>
 
 A curated collection of my Data Structures & Algorithms practice solutions, organized by the platform they were solved on. Every file is a **100% accepted (solved) submission** — the direct link to the original problem statement is provided next to each solution so you can read the question and try it yourself.
@@ -11,17 +11,17 @@ A curated collection of my Data Structures & Algorithms practice solutions, orga
 | Platform | Solutions | Directory |
 | :--- | :---: | :--- |
 | [Leetcode](#leetcode) | **334** | `leetcode/` |
-| [GeeksforGeeks](#geeksforgeeks) | **199** | `geeks_for_geeks/` |
+| [GeeksforGeeks](#geeksforgeeks) | **200** | `geeks_for_geeks/` |
 | [Coding Ninjas](#coding-ninjas) | **27** | `coding_ninjas/` |
 | [InterviewBit](#interviewbit) | **2** | `interview_bit/` |
-| **Total** | **562** | — |
+| **Total** | **563** | — |
 
 ## 🗂️ Repository Structure
 
 ```text
 dsa-practice-solution/
 ├── leetcode/            # Leetcode solutions (334)
-├── geeks_for_geeks/     # GeeksforGeeks solutions (199)
+├── geeks_for_geeks/     # GeeksforGeeks solutions (200)
 ├── coding_ninjas/       # Coding Ninjas solutions (27)
 ├── interview_bit/       # InterviewBit solutions (2)
 └── README.md                 # This file
@@ -384,11 +384,11 @@ dsa-practice-solution/
 ## GeeksforGeeks
 
 <p align="left">
-  <img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-199%20solved-blue?style=for-the-badge">
+  <img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-200%20solved-blue?style=for-the-badge">
   <a href="https://www.geeksforgeeks.org/explore"><img alt="Practice more" src="https://img.shields.io/badge/Browse%20more%20problems-GeeksforGeeks-orange?style=for-the-badge"></a>
 </p>
 
-**199 problems solved on GeeksforGeeks.**
+**200 problems solved on GeeksforGeeks.**
 
 | # | Solution File | Question | Status |
 | :---: | :--- | :--- | :---: |
@@ -590,7 +590,8 @@ dsa-practice-solution/
 | 196 | [`unoccupied_computers.cpp`](./geeks_for_geeks/unoccupied_computers.cpp) | [Unoccupied Computers](https://www.geeksforgeeks.org/problems/unoccupied-computers-1646661078/1) | ✅ Solved |
 | 197 | [`values_with_equal_array_remainders.cpp`](./geeks_for_geeks/values_with_equal_array_remainders.cpp) | [Values with Equal Array Remainders](https://www.geeksforgeeks.org/problems/k-modulus-array-element0255/1) | ✅ Solved |
 | 198 | [`visit_leaves_with_budget.cpp`](./geeks_for_geeks/visit_leaves_with_budget.cpp) | [Visit Leaves with Budget](https://www.geeksforgeeks.org/problems/leaf-under-budget/1) | ✅ Solved |
-| 199 | [`y_intersection_linked_list.cpp`](./geeks_for_geeks/y_intersection_linked_list.cpp) | [Intersection Point in Y Shaped Linked Lists](https://www.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1) | ✅ Solved |
+| 199 | [`ways_to_reach_origin.cpp`](./geeks_for_geeks/ways_to_reach_origin.cpp) | [Paths to Reach Origin](https://www.geeksforgeeks.org/problems/paths-to-reach-origin3850/1) | ✅ Solved |
+| 200 | [`y_intersection_linked_list.cpp`](./geeks_for_geeks/y_intersection_linked_list.cpp) | [Intersection Point in Y Shaped Linked Lists](https://www.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1) | ✅ Solved |
 
 ## Coding Ninjas
 
@@ -651,7 +652,7 @@ dsa-practice-solution/
 
 | Language | Files |
 | :--- | :---: |
-| `.cpp` | 555 |
+| `.cpp` | 558 |
 | `.c` | 3 |
 | `.py` | 1 |
 | `.js` | 1 |
