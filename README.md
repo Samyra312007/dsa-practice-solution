@@ -1,7 +1,7 @@
 # 📚 DSA Practice Solutions
 
 <p align="center">
-  <img alt="Total Solved" src="https://img.shields.io/badge/Total%20Solved-567-brightgreen?style=for-the-badge">
+  <img alt="Total Solved" src="https://img.shields.io/badge/Total%20Solved-568-brightgreen?style=for-the-badge">
 </p>
 
 A curated collection of my Data Structures & Algorithms practice solutions, organized by the platform they were solved on. Every file is a **100% accepted (solved) submission** — the direct link to the original problem statement is provided next to each solution so you can read the question and try it yourself.
@@ -11,17 +11,17 @@ A curated collection of my Data Structures & Algorithms practice solutions, orga
 | Platform | Solutions | Directory |
 | :--- | :---: | :--- |
 | [Leetcode](#leetcode) | **338** | `leetcode/` |
-| [GeeksforGeeks](#geeksforgeeks) | **200** | `geeks_for_geeks/` |
+| [GeeksforGeeks](#geeksforgeeks) | **201** | `geeks_for_geeks/` |
 | [Coding Ninjas](#coding-ninjas) | **27** | `coding_ninjas/` |
 | [InterviewBit](#interviewbit) | **2** | `interview_bit/` |
-| **Total** | **567** | — |
+| **Total** | **568** | — |
 
 ## 🗂️ Repository Structure
 
 ```text
 dsa-practice-solution/
 ├── leetcode/            # Leetcode solutions (338)
-├── geeks_for_geeks/     # GeeksforGeeks solutions (200)
+├── geeks_for_geeks/     # GeeksforGeeks solutions (201)
 ├── coding_ninjas/       # Coding Ninjas solutions (27)
 ├── interview_bit/       # InterviewBit solutions (2)
 └── README.md                 # This file
@@ -387,11 +387,11 @@ dsa-practice-solution/
 ## GeeksforGeeks
 
 <p align="left">
-  <img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-200%20solved-blue?style=for-the-badge">
+  <img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-201%20solved-blue?style=for-the-badge">
   <a href="https://www.geeksforgeeks.org/explore"><img alt="Practice more" src="https://img.shields.io/badge/Browse%20more%20problems-GeeksforGeeks-orange?style=for-the-badge"></a>
 </p>
 
-**200 problems solved on GeeksforGeeks.**
+**201 problems solved on GeeksforGeeks.**
 
 | # | Solution File | Question | Status |
 | :---: | :--- | :--- | :---: |
@@ -563,38 +563,39 @@ dsa-practice-solution/
 | 166 | [`sort_a_ll_of_0s_1s_2s.cpp`](./geeks_for_geeks/sort_a_ll_of_0s_1s_2s.cpp) | [Sort a linked list of 0s, 1s and 2s](https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1) | ✅ Solved |
 | 167 | [`sort_a_stack_using_recursion.cpp`](./geeks_for_geeks/sort_a_stack_using_recursion.cpp) | [Sort a stack](https://www.geeksforgeeks.org/problems/sort-a-stack/1) | ✅ Solved |
 | 168 | [`sort_in_specific_order.cpp`](./geeks_for_geeks/sort_in_specific_order.cpp) | [Sort in specific order](https://www.geeksforgeeks.org/problems/sort-in-specific-order2422/1) | ✅ Solved |
-| 169 | [`spirally_traversing_a_matrix.cpp`](./geeks_for_geeks/spirally_traversing_a_matrix.cpp) | [Spirally Traversing a Matrix](https://www.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1) | ✅ Solved |
-| 170 | [`square_root.cpp`](./geeks_for_geeks/square_root.cpp) | [Square Root](https://www.geeksforgeeks.org/problems/square-root/1) | ✅ Solved |
-| 171 | [`square_root_bs.cpp`](./geeks_for_geeks/square_root_bs.cpp) | [Square Root](https://www.geeksforgeeks.org/problems/square-root/1) | ✅ Solved |
-| 172 | [`subarrays_with_k_distinct_integers.cpp`](./geeks_for_geeks/subarrays_with_k_distinct_integers.cpp) | [Subarrays with K Different Integers](https://www.geeksforgeeks.org/problems/subarrays-with-k-different-integers/1) | ✅ Solved |
-| 173 | [`subarrays_with_sum_k.cpp`](./geeks_for_geeks/subarrays_with_sum_k.cpp) | [Subarrays with sum K](https://www.geeksforgeeks.org/problems/subarrays-with-sum-k/1) | ✅ Solved |
-| 174 | [`subset_sum_problem.cpp`](./geeks_for_geeks/subset_sum_problem.cpp) | [Subset Sum Problem](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | ✅ Solved |
-| 175 | [`subsets.cpp`](./geeks_for_geeks/subsets.cpp) | [Distinct Subsets](https://www.geeksforgeeks.org/problems/subset-sum-ii/1) | ✅ Solved |
-| 176 | [`subsets_sums.cpp`](./geeks_for_geeks/subsets_sums.cpp) | [Subset Sums](https://www.geeksforgeeks.org/problems/subset-sums2234/1) | ✅ Solved |
-| 177 | [`substrings_with_k_distinct.cpp`](./geeks_for_geeks/substrings_with_k_distinct.cpp) | [Count number of substrings](https://www.geeksforgeeks.org/problems/count-number-of-substrings4528/1) | ✅ Solved |
-| 178 | [`sum_of_binary_tree.cpp`](./geeks_for_geeks/sum_of_binary_tree.cpp) | [Sum of Binary Tree](https://www.geeksforgeeks.org/problems/sum-of-binary-tree/1) | ✅ Solved |
-| 179 | [`sum_of_elements_between_k1_and_k2_smallest_element.cpp`](./geeks_for_geeks/sum_of_elements_between_k1_and_k2_smallest_element.cpp) | [Sum Between k1'th and k2'th Smallest](https://www.geeksforgeeks.org/problems/sum-of-elements-between-k1th-and-k2th-smallest-elements3133/1) | ✅ Solved |
-| 180 | [`sum_of_k_smallest_elements_in_bst.cpp`](./geeks_for_geeks/sum_of_k_smallest_elements_in_bst.cpp) | [Sum of k smallest in BST](https://www.geeksforgeeks.org/problems/sum-of-k-smallest-elements-in-bst3029/1) | ✅ Solved |
-| 181 | [`sum_of_nodes_in_bst_range.cpp`](./geeks_for_geeks/sum_of_nodes_in_bst_range.cpp) | [Sum of Nodes in BST Range](https://www.geeksforgeeks.org/problems/range-sum-of-bst/1) | ✅ Solved |
-| 182 | [`sum_of_pariwise_ands.cpp`](./geeks_for_geeks/sum_of_pariwise_ands.cpp) | [Sum of pairwise AND](https://www.geeksforgeeks.org/problems/sum-of-pairwise-ands5271/1) | ✅ Solved |
-| 183 | [`swap_two_numbers.cpp`](./geeks_for_geeks/swap_two_numbers.cpp) | [Swap Two Numbers](https://www.geeksforgeeks.org/problems/swap-the-numbers/1) | ✅ Solved |
-| 184 | [`top_view_of_binary_tree.cpp`](./geeks_for_geeks/top_view_of_binary_tree.cpp) | [Top View of Binary Tree](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1) | ✅ Solved |
-| 185 | [`topo_sort.cpp`](./geeks_for_geeks/topo_sort.cpp) | [Topological Sort](https://www.geeksforgeeks.org/problems/topological-sort/1) | ✅ Solved |
-| 186 | [`tower_of_hanoi.cpp`](./geeks_for_geeks/tower_of_hanoi.cpp) | [Tower Of Hanoi](https://www.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1) | ✅ Solved |
-| 187 | [`two_equal_sum_subarrays.cpp`](./geeks_for_geeks/two_equal_sum_subarrays.cpp) | [Two Equal Sum Subarrays](https://www.geeksforgeeks.org/problems/split-an-array-into-two-equal-sum-subarrays/1) | ✅ Solved |
-| 188 | [`two_odd_occuring.cpp`](./geeks_for_geeks/two_odd_occuring.cpp) | [Two odd Occuring](https://www.geeksforgeeks.org/problems/two-numbers-with-odd-occurrences5846/1) | ✅ Solved |
-| 189 | [`two_sum_pairf_of_nums_equal_to_target.cpp`](./geeks_for_geeks/two_sum_pairf_of_nums_equal_to_target.cpp) | [Key Pair](https://www.geeksforgeeks.org/problems/key-pair5616/1) | ✅ Solved |
-| 190 | [`two_water_jug_problem.cpp`](./geeks_for_geeks/two_water_jug_problem.cpp) | [Two water Jug problem](https://www.geeksforgeeks.org/problems/two-water-jug-problem3402/1) | ✅ Solved |
-| 191 | [`unbounded_knapsack.cpp`](./geeks_for_geeks/unbounded_knapsack.cpp) | [Knapsack with Duplicate Items](https://www.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1) | ✅ Solved |
-| 192 | [`undirected_graph_cycle.cpp`](./geeks_for_geeks/undirected_graph_cycle.cpp) | [Undirected Graph Cycle](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) | ✅ Solved |
-| 193 | [`union_of_two_sorted_arrays.cpp`](./geeks_for_geeks/union_of_two_sorted_arrays.cpp) | [Union of 2 Sorted Arrays](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1) | ✅ Solved |
-| 194 | [`unique_binary_tree_requirements.cpp`](./geeks_for_geeks/unique_binary_tree_requirements.cpp) | [Unique Binary Tree Requirements](https://www.geeksforgeeks.org/problems/unique-binary-tree-requirements/1) | ✅ Solved |
-| 195 | [`unique_number_1.cpp`](./geeks_for_geeks/unique_number_1.cpp) | [Find Unique Number](https://www.geeksforgeeks.org/problems/find-unique-number/1) | ✅ Solved |
-| 196 | [`unoccupied_computers.cpp`](./geeks_for_geeks/unoccupied_computers.cpp) | [Unoccupied Computers](https://www.geeksforgeeks.org/problems/unoccupied-computers-1646661078/1) | ✅ Solved |
-| 197 | [`values_with_equal_array_remainders.cpp`](./geeks_for_geeks/values_with_equal_array_remainders.cpp) | [Values with Equal Array Remainders](https://www.geeksforgeeks.org/problems/k-modulus-array-element0255/1) | ✅ Solved |
-| 198 | [`visit_leaves_with_budget.cpp`](./geeks_for_geeks/visit_leaves_with_budget.cpp) | [Visit Leaves with Budget](https://www.geeksforgeeks.org/problems/leaf-under-budget/1) | ✅ Solved |
-| 199 | [`ways_to_reach_origin.cpp`](./geeks_for_geeks/ways_to_reach_origin.cpp) | [Paths to Reach Origin](https://www.geeksforgeeks.org/problems/paths-to-reach-origin3850/1) | ✅ Solved |
-| 200 | [`y_intersection_linked_list.cpp`](./geeks_for_geeks/y_intersection_linked_list.cpp) | [Intersection Point in Y Shaped Linked Lists](https://www.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1) | ✅ Solved |
+| 169 | [`sort_two_parts_sorted.cpp`](./geeks_for_geeks/sort_two_parts_sorted.cpp) | [Sort Two Parts Sorted](https://www.geeksforgeeks.org/problems/sort-the-half-sorted2157/1) | ✅ Solved |
+| 170 | [`spirally_traversing_a_matrix.cpp`](./geeks_for_geeks/spirally_traversing_a_matrix.cpp) | [Spirally Traversing a Matrix](https://www.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1) | ✅ Solved |
+| 171 | [`square_root.cpp`](./geeks_for_geeks/square_root.cpp) | [Square Root](https://www.geeksforgeeks.org/problems/square-root/1) | ✅ Solved |
+| 172 | [`square_root_bs.cpp`](./geeks_for_geeks/square_root_bs.cpp) | [Square Root](https://www.geeksforgeeks.org/problems/square-root/1) | ✅ Solved |
+| 173 | [`subarrays_with_k_distinct_integers.cpp`](./geeks_for_geeks/subarrays_with_k_distinct_integers.cpp) | [Subarrays with K Different Integers](https://www.geeksforgeeks.org/problems/subarrays-with-k-different-integers/1) | ✅ Solved |
+| 174 | [`subarrays_with_sum_k.cpp`](./geeks_for_geeks/subarrays_with_sum_k.cpp) | [Subarrays with sum K](https://www.geeksforgeeks.org/problems/subarrays-with-sum-k/1) | ✅ Solved |
+| 175 | [`subset_sum_problem.cpp`](./geeks_for_geeks/subset_sum_problem.cpp) | [Subset Sum Problem](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | ✅ Solved |
+| 176 | [`subsets.cpp`](./geeks_for_geeks/subsets.cpp) | [Distinct Subsets](https://www.geeksforgeeks.org/problems/subset-sum-ii/1) | ✅ Solved |
+| 177 | [`subsets_sums.cpp`](./geeks_for_geeks/subsets_sums.cpp) | [Subset Sums](https://www.geeksforgeeks.org/problems/subset-sums2234/1) | ✅ Solved |
+| 178 | [`substrings_with_k_distinct.cpp`](./geeks_for_geeks/substrings_with_k_distinct.cpp) | [Count number of substrings](https://www.geeksforgeeks.org/problems/count-number-of-substrings4528/1) | ✅ Solved |
+| 179 | [`sum_of_binary_tree.cpp`](./geeks_for_geeks/sum_of_binary_tree.cpp) | [Sum of Binary Tree](https://www.geeksforgeeks.org/problems/sum-of-binary-tree/1) | ✅ Solved |
+| 180 | [`sum_of_elements_between_k1_and_k2_smallest_element.cpp`](./geeks_for_geeks/sum_of_elements_between_k1_and_k2_smallest_element.cpp) | [Sum Between k1'th and k2'th Smallest](https://www.geeksforgeeks.org/problems/sum-of-elements-between-k1th-and-k2th-smallest-elements3133/1) | ✅ Solved |
+| 181 | [`sum_of_k_smallest_elements_in_bst.cpp`](./geeks_for_geeks/sum_of_k_smallest_elements_in_bst.cpp) | [Sum of k smallest in BST](https://www.geeksforgeeks.org/problems/sum-of-k-smallest-elements-in-bst3029/1) | ✅ Solved |
+| 182 | [`sum_of_nodes_in_bst_range.cpp`](./geeks_for_geeks/sum_of_nodes_in_bst_range.cpp) | [Sum of Nodes in BST Range](https://www.geeksforgeeks.org/problems/range-sum-of-bst/1) | ✅ Solved |
+| 183 | [`sum_of_pariwise_ands.cpp`](./geeks_for_geeks/sum_of_pariwise_ands.cpp) | [Sum of pairwise AND](https://www.geeksforgeeks.org/problems/sum-of-pairwise-ands5271/1) | ✅ Solved |
+| 184 | [`swap_two_numbers.cpp`](./geeks_for_geeks/swap_two_numbers.cpp) | [Swap Two Numbers](https://www.geeksforgeeks.org/problems/swap-the-numbers/1) | ✅ Solved |
+| 185 | [`top_view_of_binary_tree.cpp`](./geeks_for_geeks/top_view_of_binary_tree.cpp) | [Top View of Binary Tree](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1) | ✅ Solved |
+| 186 | [`topo_sort.cpp`](./geeks_for_geeks/topo_sort.cpp) | [Topological Sort](https://www.geeksforgeeks.org/problems/topological-sort/1) | ✅ Solved |
+| 187 | [`tower_of_hanoi.cpp`](./geeks_for_geeks/tower_of_hanoi.cpp) | [Tower Of Hanoi](https://www.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1) | ✅ Solved |
+| 188 | [`two_equal_sum_subarrays.cpp`](./geeks_for_geeks/two_equal_sum_subarrays.cpp) | [Two Equal Sum Subarrays](https://www.geeksforgeeks.org/problems/split-an-array-into-two-equal-sum-subarrays/1) | ✅ Solved |
+| 189 | [`two_odd_occuring.cpp`](./geeks_for_geeks/two_odd_occuring.cpp) | [Two odd Occuring](https://www.geeksforgeeks.org/problems/two-numbers-with-odd-occurrences5846/1) | ✅ Solved |
+| 190 | [`two_sum_pairf_of_nums_equal_to_target.cpp`](./geeks_for_geeks/two_sum_pairf_of_nums_equal_to_target.cpp) | [Key Pair](https://www.geeksforgeeks.org/problems/key-pair5616/1) | ✅ Solved |
+| 191 | [`two_water_jug_problem.cpp`](./geeks_for_geeks/two_water_jug_problem.cpp) | [Two water Jug problem](https://www.geeksforgeeks.org/problems/two-water-jug-problem3402/1) | ✅ Solved |
+| 192 | [`unbounded_knapsack.cpp`](./geeks_for_geeks/unbounded_knapsack.cpp) | [Knapsack with Duplicate Items](https://www.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1) | ✅ Solved |
+| 193 | [`undirected_graph_cycle.cpp`](./geeks_for_geeks/undirected_graph_cycle.cpp) | [Undirected Graph Cycle](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) | ✅ Solved |
+| 194 | [`union_of_two_sorted_arrays.cpp`](./geeks_for_geeks/union_of_two_sorted_arrays.cpp) | [Union of 2 Sorted Arrays](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1) | ✅ Solved |
+| 195 | [`unique_binary_tree_requirements.cpp`](./geeks_for_geeks/unique_binary_tree_requirements.cpp) | [Unique Binary Tree Requirements](https://www.geeksforgeeks.org/problems/unique-binary-tree-requirements/1) | ✅ Solved |
+| 196 | [`unique_number_1.cpp`](./geeks_for_geeks/unique_number_1.cpp) | [Find Unique Number](https://www.geeksforgeeks.org/problems/find-unique-number/1) | ✅ Solved |
+| 197 | [`unoccupied_computers.cpp`](./geeks_for_geeks/unoccupied_computers.cpp) | [Unoccupied Computers](https://www.geeksforgeeks.org/problems/unoccupied-computers-1646661078/1) | ✅ Solved |
+| 198 | [`values_with_equal_array_remainders.cpp`](./geeks_for_geeks/values_with_equal_array_remainders.cpp) | [Values with Equal Array Remainders](https://www.geeksforgeeks.org/problems/k-modulus-array-element0255/1) | ✅ Solved |
+| 199 | [`visit_leaves_with_budget.cpp`](./geeks_for_geeks/visit_leaves_with_budget.cpp) | [Visit Leaves with Budget](https://www.geeksforgeeks.org/problems/leaf-under-budget/1) | ✅ Solved |
+| 200 | [`ways_to_reach_origin.cpp`](./geeks_for_geeks/ways_to_reach_origin.cpp) | [Paths to Reach Origin](https://www.geeksforgeeks.org/problems/paths-to-reach-origin3850/1) | ✅ Solved |
+| 201 | [`y_intersection_linked_list.cpp`](./geeks_for_geeks/y_intersection_linked_list.cpp) | [Intersection Point in Y Shaped Linked Lists](https://www.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1) | ✅ Solved |
 
 ## Coding Ninjas
 
