@@ -1,7 +1,7 @@
 # 📚 DSA Practice Solutions
 
 <p align="center">
-  <img alt="Total Solved" src="https://img.shields.io/badge/Total%20Solved-569-brightgreen?style=for-the-badge">
+  <img alt="Total Solved" src="https://img.shields.io/badge/Total%20Solved-570-brightgreen?style=for-the-badge">
 </p>
 
 A curated collection of my Data Structures & Algorithms practice solutions, organized by the platform they were solved on. Every file is a **100% accepted (solved) submission** — the direct link to the original problem statement is provided next to each solution so you can read the question and try it yourself.
@@ -10,17 +10,17 @@ A curated collection of my Data Structures & Algorithms practice solutions, orga
 
 | Platform | Solutions | Directory |
 | :--- | :---: | :--- |
-| [Leetcode](#leetcode) | **339** | `leetcode/` |
+| [Leetcode](#leetcode) | **340** | `leetcode/` |
 | [GeeksforGeeks](#geeksforgeeks) | **201** | `geeks_for_geeks/` |
 | [Coding Ninjas](#coding-ninjas) | **27** | `coding_ninjas/` |
 | [InterviewBit](#interviewbit) | **2** | `interview_bit/` |
-| **Total** | **569** | — |
+| **Total** | **570** | — |
 
 ## 🗂️ Repository Structure
 
 ```text
 dsa-practice-solution/
-├── leetcode/            # Leetcode solutions (339)
+├── leetcode/            # Leetcode solutions (340)
 ├── geeks_for_geeks/     # GeeksforGeeks solutions (201)
 ├── coding_ninjas/       # Coding Ninjas solutions (27)
 ├── interview_bit/       # InterviewBit solutions (2)
@@ -38,11 +38,11 @@ dsa-practice-solution/
 ## Leetcode
 
 <p align="left">
-  <img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-339%20solved-blue?style=for-the-badge">
+  <img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-340%20solved-blue?style=for-the-badge">
   <a href="https://leetcode.com/problemset/"><img alt="Practice more" src="https://img.shields.io/badge/Browse%20more%20problems-Leetcode-orange?style=for-the-badge"></a>
 </p>
 
-**339 problems solved on Leetcode.**
+**340 problems solved on Leetcode.**
 
 | # | Solution File | Question | Status |
 | :---: | :--- | :--- | :---: |
@@ -360,31 +360,32 @@ dsa-practice-solution/
 | 312 | [`sudoku_solver.cpp`](./leetcode/sudoku_solver.cpp) | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | ✅ Solved |
 | 313 | [`sum_multiples.cpp`](./leetcode/sum_multiples.cpp) | [Sum Multiples](https://leetcode.com/problems/sum-multiples/) | ✅ Solved |
 | 314 | [`sum_of_distances.cpp`](./leetcode/sum_of_distances.cpp) | [Sum of Distances](https://leetcode.com/problems/sum-of-distances/) | ✅ Solved |
-| 315 | [`sum_of_unique_elements.cpp`](./leetcode/sum_of_unique_elements.cpp) | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | ✅ Solved |
-| 316 | [`surrounded_regions.cpp`](./leetcode/surrounded_regions.cpp) | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | ✅ Solved |
-| 317 | [`symmetric_tree.cpp`](./leetcode/symmetric_tree.cpp) | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | ✅ Solved |
-| 318 | [`take_gifts_from_richest_pile.cpp`](./leetcode/take_gifts_from_richest_pile.cpp) | [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/) | ✅ Solved |
-| 319 | [`target_sum.cpp`](./leetcode/target_sum.cpp) | [Target Sum](https://leetcode.com/problems/target-sum/) | ✅ Solved |
-| 320 | [`the_two_sneaky_digits_of_digitville.cpp`](./leetcode/the_two_sneaky_digits_of_digitville.cpp) | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | ✅ Solved |
-| 321 | [`to_lower_case.cpp`](./leetcode/to_lower_case.cpp) | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | ✅ Solved |
-| 322 | [`two_furthest_house_with_different_colors.cpp`](./leetcode/two_furthest_house_with_different_colors.cpp) | [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/) | ✅ Solved |
-| 323 | [`two_sum_input_is_a_bst.cpp`](./leetcode/two_sum_input_is_a_bst.cpp) | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | ✅ Solved |
-| 324 | [`ugly_number.cpp`](./leetcode/ugly_number.cpp) | [Ugly Number](https://leetcode.com/problems/ugly-number/) | ✅ Solved |
-| 325 | [`unique_paths.cpp`](./leetcode/unique_paths.cpp) | [Unique Paths](https://leetcode.com/problems/unique-paths/) | ✅ Solved |
-| 326 | [`unique_paths2.cpp`](./leetcode/unique_paths2.cpp) | [Unique Paths](https://leetcode.com/problems/unique-paths/) | ✅ Solved |
-| 327 | [`unique_three_digits_even_number.cpp`](./leetcode/unique_three_digits_even_number.cpp) | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) | ✅ Solved |
-| 328 | [`valid_anagram.cpp`](./leetcode/valid_anagram.cpp) | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | ✅ Solved |
-| 329 | [`valid_palindrome.cpp`](./leetcode/valid_palindrome.cpp) | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | ✅ Solved |
-| 330 | [`valid_parentheses.cpp`](./leetcode/valid_parentheses.cpp) | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ✅ Solved |
-| 331 | [`valid_parenthesis_string.cpp`](./leetcode/valid_parenthesis_string.cpp) | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | ✅ Solved |
-| 332 | [`valid_sudoku.cpp`](./leetcode/valid_sudoku.cpp) | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | ✅ Solved |
-| 333 | [`valid_word.cpp`](./leetcode/valid_word.cpp) | [Valid Word](https://leetcode.com/problems/valid-word/) | ✅ Solved |
-| 334 | [`validate_binary_search_tree.cpp`](./leetcode/validate_binary_search_tree.cpp) | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | ✅ Solved |
-| 335 | [`water_and_jug_problem.cpp`](./leetcode/water_and_jug_problem.cpp) | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/) | ✅ Solved |
-| 336 | [`water_bottles.cpp`](./leetcode/water_bottles.cpp) | [Water Bottles](https://leetcode.com/problems/water-bottles/) | ✅ Solved |
-| 337 | [`wildcard_matching.cpp`](./leetcode/wildcard_matching.cpp) | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | ✅ Solved |
-| 338 | [`words_within_two_edits_of_dictionary.cpp`](./leetcode/words_within_two_edits_of_dictionary.cpp) | [Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/) | ✅ Solved |
-| 339 | [`xor_operation_on_array.cpp`](./leetcode/xor_operation_on_array.cpp) | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | ✅ Solved |
+| 315 | [`sum_of_squares_of_special_elements.cpp`](./leetcode/sum_of_squares_of_special_elements.cpp) | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | ✅ Solved |
+| 316 | [`sum_of_unique_elements.cpp`](./leetcode/sum_of_unique_elements.cpp) | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | ✅ Solved |
+| 317 | [`surrounded_regions.cpp`](./leetcode/surrounded_regions.cpp) | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | ✅ Solved |
+| 318 | [`symmetric_tree.cpp`](./leetcode/symmetric_tree.cpp) | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | ✅ Solved |
+| 319 | [`take_gifts_from_richest_pile.cpp`](./leetcode/take_gifts_from_richest_pile.cpp) | [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/) | ✅ Solved |
+| 320 | [`target_sum.cpp`](./leetcode/target_sum.cpp) | [Target Sum](https://leetcode.com/problems/target-sum/) | ✅ Solved |
+| 321 | [`the_two_sneaky_digits_of_digitville.cpp`](./leetcode/the_two_sneaky_digits_of_digitville.cpp) | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | ✅ Solved |
+| 322 | [`to_lower_case.cpp`](./leetcode/to_lower_case.cpp) | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | ✅ Solved |
+| 323 | [`two_furthest_house_with_different_colors.cpp`](./leetcode/two_furthest_house_with_different_colors.cpp) | [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/) | ✅ Solved |
+| 324 | [`two_sum_input_is_a_bst.cpp`](./leetcode/two_sum_input_is_a_bst.cpp) | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | ✅ Solved |
+| 325 | [`ugly_number.cpp`](./leetcode/ugly_number.cpp) | [Ugly Number](https://leetcode.com/problems/ugly-number/) | ✅ Solved |
+| 326 | [`unique_paths.cpp`](./leetcode/unique_paths.cpp) | [Unique Paths](https://leetcode.com/problems/unique-paths/) | ✅ Solved |
+| 327 | [`unique_paths2.cpp`](./leetcode/unique_paths2.cpp) | [Unique Paths](https://leetcode.com/problems/unique-paths/) | ✅ Solved |
+| 328 | [`unique_three_digits_even_number.cpp`](./leetcode/unique_three_digits_even_number.cpp) | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) | ✅ Solved |
+| 329 | [`valid_anagram.cpp`](./leetcode/valid_anagram.cpp) | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | ✅ Solved |
+| 330 | [`valid_palindrome.cpp`](./leetcode/valid_palindrome.cpp) | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | ✅ Solved |
+| 331 | [`valid_parentheses.cpp`](./leetcode/valid_parentheses.cpp) | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ✅ Solved |
+| 332 | [`valid_parenthesis_string.cpp`](./leetcode/valid_parenthesis_string.cpp) | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | ✅ Solved |
+| 333 | [`valid_sudoku.cpp`](./leetcode/valid_sudoku.cpp) | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | ✅ Solved |
+| 334 | [`valid_word.cpp`](./leetcode/valid_word.cpp) | [Valid Word](https://leetcode.com/problems/valid-word/) | ✅ Solved |
+| 335 | [`validate_binary_search_tree.cpp`](./leetcode/validate_binary_search_tree.cpp) | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | ✅ Solved |
+| 336 | [`water_and_jug_problem.cpp`](./leetcode/water_and_jug_problem.cpp) | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/) | ✅ Solved |
+| 337 | [`water_bottles.cpp`](./leetcode/water_bottles.cpp) | [Water Bottles](https://leetcode.com/problems/water-bottles/) | ✅ Solved |
+| 338 | [`wildcard_matching.cpp`](./leetcode/wildcard_matching.cpp) | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | ✅ Solved |
+| 339 | [`words_within_two_edits_of_dictionary.cpp`](./leetcode/words_within_two_edits_of_dictionary.cpp) | [Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/) | ✅ Solved |
+| 340 | [`xor_operation_on_array.cpp`](./leetcode/xor_operation_on_array.cpp) | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | ✅ Solved |
 ## GeeksforGeeks
 
 <p align="left">
