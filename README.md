@@ -1,7 +1,7 @@
 # 📚 DSA Practice Solutions
 
 <p align="center">
-  <img alt="Total Solved" src="https://img.shields.io/badge/Total%20Solved-571-brightgreen?style=for-the-badge">
+  <img alt="Total Solved" src="https://img.shields.io/badge/Total%20Solved-572-brightgreen?style=for-the-badge">
 </p>
 
 A curated collection of my Data Structures & Algorithms practice solutions, organized by the platform they were solved on. Every file is a **100% accepted (solved) submission** — the direct link to the original problem statement is provided next to each solution so you can read the question and try it yourself.
@@ -11,17 +11,17 @@ A curated collection of my Data Structures & Algorithms practice solutions, orga
 | Platform | Solutions | Directory |
 | :--- | :---: | :--- |
 | [Leetcode](#leetcode) | **340** | `leetcode/` |
-| [GeeksforGeeks](#geeksforgeeks) | **202** | `geeks_for_geeks/` |
+| [GeeksforGeeks](#geeksforgeeks) | **203** | `geeks_for_geeks/` |
 | [Coding Ninjas](#coding-ninjas) | **27** | `coding_ninjas/` |
 | [InterviewBit](#interviewbit) | **2** | `interview_bit/` |
-| **Total** | **571** | — |
+| **Total** | **572** | — |
 
 ## 🗂️ Repository Structure
 
 ```text
 dsa-practice-solution/
 ├── leetcode/            # Leetcode solutions (340)
-├── geeks_for_geeks/     # GeeksforGeeks solutions (202)
+├── geeks_for_geeks/     # GeeksforGeeks solutions (203)
 ├── coding_ninjas/       # Coding Ninjas solutions (27)
 ├── interview_bit/       # InterviewBit solutions (2)
 └── README.md                 # This file
@@ -389,216 +389,217 @@ dsa-practice-solution/
 ## GeeksforGeeks
 
 <p align="left">
-  <img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-202%20solved-blue?style=for-the-badge">
+  <img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-203%20solved-blue?style=for-the-badge">
   <a href="https://www.geeksforgeeks.org/explore"><img alt="Practice more" src="https://img.shields.io/badge/Browse%20more%20problems-GeeksforGeeks-orange?style=for-the-badge"></a>
 </p>
 
-**202 problems solved on GeeksforGeeks.**
+**203 problems solved on GeeksforGeeks.**
 
 | # | Solution File | Question | Status |
 | :---: | :--- | :--- | :---: |
 | 1 | [`0-1_knapsack_problem.cpp`](./geeks_for_geeks/0-1_knapsack_problem.cpp) | [0 - 1 Knapsack Problem](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) | ✅ Solved |
 | 2 | [`add_1_to_a_ll_number.cpp`](./geeks_for_geeks/add_1_to_a_ll_number.cpp) | [Add 1 to a Linked List Number](https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1) | ✅ Solved |
-| 3 | [`all_divisors_of_a_number.cpp`](./geeks_for_geeks/all_divisors_of_a_number.cpp) | [All Divisors of a Number](https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1) | ✅ Solved |
-| 4 | [`alternative_positive_negative.cpp`](./geeks_for_geeks/alternative_positive_negative.cpp) | [Alternate Positive Negative](https://www.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1) | ✅ Solved |
-| 5 | [`array_leaders.cpp`](./geeks_for_geeks/array_leaders.cpp) | [Array Leaders](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1) | ✅ Solved |
-| 6 | [`array_search.cpp`](./geeks_for_geeks/array_search.cpp) | [Binary Search on ArrayList](https://www.geeksforgeeks.org/problems/binary-search-on-arraylist/1) | ✅ Solved |
-| 7 | [`array_to_doubly_ll.cpp`](./geeks_for_geeks/array_to_doubly_ll.cpp) | [Doubly Linked List from an Array](https://www.geeksforgeeks.org/problems/create-a-doubly-linked-list-from-a-given-array/1) | ✅ Solved |
-| 8 | [`array_to_linkedlist.cpp`](./geeks_for_geeks/array_to_linkedlist.cpp) | [Array to Linked List](https://www.geeksforgeeks.org/problems/introduction-to-linked-list/1) | ✅ Solved |
-| 9 | [`bfs_of_a_graph.cpp`](./geeks_for_geeks/bfs_of_a_graph.cpp) | [BFS of Graph](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | ✅ Solved |
-| 10 | [`binary_search.cpp`](./geeks_for_geeks/binary_search.cpp) | [Binary Search on ArrayList](https://www.geeksforgeeks.org/problems/binary-search-on-arraylist/1) | ✅ Solved |
-| 11 | [`binary_tree_representation.cpp`](./geeks_for_geeks/binary_tree_representation.cpp) | [Binary Tree Representation](https://www.geeksforgeeks.org/problems/binary-tree-representation/1) | ✅ Solved |
-| 12 | [`bipartite_graph_using_dfs.cpp`](./geeks_for_geeks/bipartite_graph_using_dfs.cpp) | [Bipartite Graph](https://www.geeksforgeeks.org/problems/bipartite-graph/1) | ✅ Solved |
-| 13 | [`bird_and_max_fruit_gathering.cpp`](./geeks_for_geeks/bird_and_max_fruit_gathering.cpp) | [Bird and Max Fruit Gathering](https://www.geeksforgeeks.org/problems/bird-and-maximum-fruit-gathering--170645/1) | ✅ Solved |
-| 14 | [`boolean_parenthezation.cpp`](./geeks_for_geeks/boolean_parenthezation.cpp) | [Boolean Parenthesization](https://www.geeksforgeeks.org/problems/boolean-parenthesization5610/1) | ✅ Solved |
-| 15 | [`bottom_view_of_binary_tree.cpp`](./geeks_for_geeks/bottom_view_of_binary_tree.cpp) | [Bottom View of Binary Tree](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) | ✅ Solved |
-| 16 | [`boundary_traversal_of_binary_tree.cpp`](./geeks_for_geeks/boundary_traversal_of_binary_tree.cpp) | [Tree Boundary Traversal](https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1) | ✅ Solved |
-| 17 | [`bst_keys_in_a_range.cpp`](./geeks_for_geeks/bst_keys_in_a_range.cpp) | [Remove BST keys outside given range](https://www.geeksforgeeks.org/problems/remove-bst-keys-outside-given-range/1) | ✅ Solved |
-| 18 | [`bst_with_dead_end.cpp`](./geeks_for_geeks/bst_with_dead_end.cpp) | [BST with Dead End](https://www.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1) | ✅ Solved |
-| 19 | [`bstToMaxHeap.cpp`](./geeks_for_geeks/bstToMaxHeap.cpp) | [BST to Special Max Heap](https://www.geeksforgeeks.org/problems/bst-to-max-heap/1) | ✅ Solved |
-| 20 | [`buildings_with_sunlight.cpp`](./geeks_for_geeks/buildings_with_sunlight.cpp) | [Buildings with Sunlight](https://www.geeksforgeeks.org/problems/buildings-receiving-sunlight3032/1) | ✅ Solved |
-| 21 | [`burning_tree.cpp`](./geeks_for_geeks/burning_tree.cpp) | [Burning Tree](https://www.geeksforgeeks.org/problems/burning-tree/1) | ✅ Solved |
-| 22 | [`bus_conductor.cpp`](./geeks_for_geeks/bus_conductor.cpp) | [Bus Conductor](https://www.geeksforgeeks.org/problems/bus-conductor--170647/1) | ✅ Solved |
-| 23 | [`ceil_in_a_sorted_array.cpp`](./geeks_for_geeks/ceil_in_a_sorted_array.cpp) | [Ceil in a Sorted Array](https://www.geeksforgeeks.org/problems/ceil-in-a-sorted-array/1) | ✅ Solved |
-| 24 | [`check_for_power.cpp`](./geeks_for_geeks/check_for_power.cpp) | [Check Power of 8](https://www.geeksforgeeks.org/problems/check-if-a-integer-is-power-of-8-or-not2537/1) | ✅ Solved |
-| 25 | [`check_if_there_exists_a_subsequence_with_the_target_sum_k.cpp`](./geeks_for_geeks/check_if_there_exists_a_subsequence_with_the_target_sum_k.cpp) | [Subsequence with Sum K](https://www.geeksforgeeks.org/problems/check-if-there-exists-a-subsequence-with-sum-k/1) | ✅ Solved |
-| 26 | [`check_kth_bit.cpp`](./geeks_for_geeks/check_kth_bit.cpp) | [Set kth Bit](https://www.geeksforgeeks.org/problems/set-kth-bit3724/1) | ✅ Solved |
-| 27 | [`children_sum_property_in_bt.cpp`](./geeks_for_geeks/children_sum_property_in_bt.cpp) | [Children Sum in a Binary Tree](https://www.geeksforgeeks.org/problems/children-sum-parent/1) | ✅ Solved |
-| 28 | [`construct_bst_from_postorder.cpp`](./geeks_for_geeks/construct_bst_from_postorder.cpp) | [Construct BST from Postorder](https://www.geeksforgeeks.org/problems/construct-bst-from-post-order/1) | ✅ Solved |
-| 29 | [`convert_min_heap_to_max_heap.cpp`](./geeks_for_geeks/convert_min_heap_to_max_heap.cpp) | [Convert Min Heap to Max Heap](https://www.geeksforgeeks.org/problems/convert-min-heap-to-max-heap/1) | ✅ Solved |
-| 30 | [`count_dearrangements.cpp`](./geeks_for_geeks/count_dearrangements.cpp) | [Count Derangements](https://www.geeksforgeeks.org/problems/dearrangement-of-balls0918/1) | ✅ Solved |
-| 31 | [`count_digits.cpp`](./geeks_for_geeks/count_digits.cpp) | [Digits in N that Divide it](https://www.geeksforgeeks.org/problems/count-digits-in-given-number-n-which-divide-n3331/1) | ✅ Solved |
-| 32 | [`count_distinct_elements_in_every_window.cpp`](./geeks_for_geeks/count_distinct_elements_in_every_window.cpp) | [Count Distinct Elements in Every Window](https://www.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1) | ✅ Solved |
-| 33 | [`count_distinct_in_an_array.cpp`](./geeks_for_geeks/count_distinct_in_an_array.cpp) | [Count Distinct in Array](https://www.geeksforgeeks.org/problems/find-distinct-elements--130928/1) | ✅ Solved |
-| 34 | [`count_elements_less_than_or_equal_to_in_a_rotated_sorted_array.cpp`](./geeks_for_geeks/count_elements_less_than_or_equal_to_in_a_rotated_sorted_array.cpp) | [Count elements less than or equal to k in a sorted rotated array](https://www.geeksforgeeks.org/problems/count-elements-less-than-or-equal-to-k-in-a-sorted-rotated-array/1) | ✅ Solved |
-| 35 | [`count_inversions.cpp`](./geeks_for_geeks/count_inversions.cpp) | [Count Inversions](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | ✅ Solved |
-| 36 | [`count_leaves_in_Binary_tree.cpp`](./geeks_for_geeks/count_leaves_in_Binary_tree.cpp) | [Count Leaves in Binary Tree](https://www.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1) | ✅ Solved |
-| 37 | [`count_linkedlist_nodes.cpp`](./geeks_for_geeks/count_linkedlist_nodes.cpp) | [Length of Linked List](https://www.geeksforgeeks.org/problems/count-nodes-of-linked-list/1) | ✅ Solved |
-| 38 | [`count_non_leaf_nodes_in_binary_tree.cpp`](./geeks_for_geeks/count_non_leaf_nodes_in_binary_tree.cpp) | [Count Internal Nodes in Tree](https://www.geeksforgeeks.org/problems/count-non-leaf-nodes-in-tree/1) | ✅ Solved |
-| 39 | [`count_x_in_range_of_a_sorted_array.cpp`](./geeks_for_geeks/count_x_in_range_of_a_sorted_array.cpp) | [Count X in Range of a Sorted Array](https://www.geeksforgeeks.org/problems/count-x-in-range-of-a-sorted-array/1) | ✅ Solved |
-| 40 | [`delete_all_occurences_of_a_given_key.cpp`](./geeks_for_geeks/delete_all_occurences_of_a_given_key.cpp) | [Delete All Occurrences in a Linked list](https://www.geeksforgeeks.org/problems/delete-keys-in-a-linked-list/1) | ✅ Solved |
-| 41 | [`delete_kth_position_elem_in_dll.cpp`](./geeks_for_geeks/delete_kth_position_elem_in_dll.cpp) | [Delete node in Doubly Linked List](https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1) | ✅ Solved |
-| 42 | [`dfs_of_a_graph.cpp`](./geeks_for_geeks/dfs_of_a_graph.cpp) | [DFS of Graph](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | ✅ Solved |
-| 43 | [`diagonal_tree_traversal.cpp`](./geeks_for_geeks/diagonal_tree_traversal.cpp) | [Diagonal Tree Traversal](https://www.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree/1) | ✅ Solved |
-| 44 | [`directed_graph_cycle.cpp`](./geeks_for_geeks/directed_graph_cycle.cpp) | [Directed Graph Cycle](https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) | ✅ Solved |
-| 45 | [`distance_of_nearest_cell_having_1.cpp`](./geeks_for_geeks/distance_of_nearest_cell_having_1.cpp) | [Distance of nearest cell having 1](https://www.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1) | ✅ Solved |
-| 46 | [`does_array_represent_heap.cpp`](./geeks_for_geeks/does_array_represent_heap.cpp) | [Check if Array is Max Heap](https://www.geeksforgeeks.org/problems/does-array-represent-heap4345/1) | ✅ Solved |
-| 47 | [`dominant_pairs.cpp`](./geeks_for_geeks/dominant_pairs.cpp) | [Dominant Pairs](https://www.geeksforgeeks.org/problems/dominant-pairs/1) | ✅ Solved |
-| 48 | [`duplicates_in_a_limited_range_array.cpp`](./geeks_for_geeks/duplicates_in_a_limited_range_array.cpp) | [Duplicates in Limited Range Array](https://www.geeksforgeeks.org/problems/find-duplicates-in-an-array/1) | ✅ Solved |
-| 49 | [`even_and_odd.cpp`](./geeks_for_geeks/even_and_odd.cpp) | [Even at Even Index and Odd at Odd](https://www.geeksforgeeks.org/problems/even-and-odd/1) | ✅ Solved |
-| 50 | [`find_common_nodes_in_two_bsts.cpp`](./geeks_for_geeks/find_common_nodes_in_two_bsts.cpp) | [Common Nodes in Two BSTs](https://www.geeksforgeeks.org/problems/print-common-nodes-in-bst/1) | ✅ Solved |
-| 51 | [`find_pairs_with_given_sum_in_dll.cpp`](./geeks_for_geeks/find_pairs_with_given_sum_in_dll.cpp) | [Pair Sum in Sorted Doubly Linked List](https://www.geeksforgeeks.org/problems/find-pairs-with-given-sum-in-doubly-linked-list/1) | ✅ Solved |
-| 52 | [`find_xor_of_numbers_l_to_r.cpp`](./geeks_for_geeks/find_xor_of_numbers_l_to_r.cpp) | [XOR of a Number Range](https://www.geeksforgeeks.org/problems/find-xor-of-numbers-from-l-to-r/1) | ✅ Solved |
-| 53 | [`first_negative_in_every_window_of_size_k.cpp`](./geeks_for_geeks/first_negative_in_every_window_of_size_k.cpp) | [First Negative in Windows of Size K](https://www.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1) | ✅ Solved |
-| 54 | [`first_non_repeating_character_in_a_stream.cpp`](./geeks_for_geeks/first_non_repeating_character_in_a_stream.cpp) | [Stream First Non-repeating](https://www.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1) | ✅ Solved |
-| 55 | [`flattening_of_ll.cpp`](./geeks_for_geeks/flattening_of_ll.cpp) | [Flattening a Linked List](https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1) | ✅ Solved |
-| 56 | [`floor_in_a_sorted_array.cpp`](./geeks_for_geeks/floor_in_a_sorted_array.cpp) | [Floor in a Sorted Array](https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1) | ✅ Solved |
-| 57 | [`fractional_knapsack.cpp`](./geeks_for_geeks/fractional_knapsack.cpp) | [Fractional Knapsack](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1) | ✅ Solved |
-| 58 | [`frequencies_in_a_limited_array.cpp`](./geeks_for_geeks/frequencies_in_a_limited_array.cpp) | [Frequencies in a Limited Array](https://www.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1) | ✅ Solved |
-| 59 | [`frog_jump.cpp`](./geeks_for_geeks/frog_jump.cpp) | [Frog Jump](https://www.geeksforgeeks.org/problems/geek-jump/1) | ✅ Solved |
-| 60 | [`fruit_into_baskets.cpp`](./geeks_for_geeks/fruit_into_baskets.cpp) | [Fruit Into Baskets](https://www.geeksforgeeks.org/problems/fruit-into-baskets-1663137462/1) | ✅ Solved |
-| 61 | [`gas_station.cpp`](./geeks_for_geeks/gas_station.cpp) | [Minimize Max Distance of Adjacent Gas Stations](https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1) | ✅ Solved |
-| 62 | [`geeks_training.cpp`](./geeks_for_geeks/geeks_training.cpp) | [Geek's Training](https://www.geeksforgeeks.org/problems/geeks-training/1) | ✅ Solved |
-| 63 | [`generate_all_binary_strings.cpp`](./geeks_for_geeks/generate_all_binary_strings.cpp) | [Generate all binary strings](https://www.geeksforgeeks.org/problems/generate-all-binary-strings/1) | ✅ Solved |
-| 64 | [`generate_binary_strings.cpp`](./geeks_for_geeks/generate_binary_strings.cpp) | [Generate Binary Strings](https://www.geeksforgeeks.org/problems/generate-binary-string3642/1) | ✅ Solved |
-| 65 | [`height_of_a_heap.cpp`](./geeks_for_geeks/height_of_a_heap.cpp) | [Height of Heap](https://www.geeksforgeeks.org/problems/height-of-heap5025/1) | ✅ Solved |
-| 66 | [`identical_trees.cpp`](./geeks_for_geeks/identical_trees.cpp) | [Identical Trees](https://www.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1) | ✅ Solved |
-| 67 | [`implement_lower_bound.cpp`](./geeks_for_geeks/implement_lower_bound.cpp) | [Implement Lower Bound](https://www.geeksforgeeks.org/problems/implement-lower-bound/1) | ✅ Solved |
-| 68 | [`implement_upper_bound.cpp`](./geeks_for_geeks/implement_upper_bound.cpp) | [Implement Upper Bound](https://www.geeksforgeeks.org/problems/implement-upper-bound/1) | ✅ Solved |
-| 69 | [`increasing_subsequence.cpp`](./geeks_for_geeks/increasing_subsequence.cpp) | [Count Increasing Subsequences](https://www.geeksforgeeks.org/problems/count-increasing-subsequences3134/1) | ✅ Solved |
-| 70 | [`infix_to_postfix_conversion.cpp`](./geeks_for_geeks/infix_to_postfix_conversion.cpp) | [Postfix to Infix Conversion](https://www.geeksforgeeks.org/problems/postfix-to-infix-conversion/1) | ✅ Solved |
-| 71 | [`inorder_successor_in_bst.cpp`](./geeks_for_geeks/inorder_successor_in_bst.cpp) | [Inorder Successor in BST](https://www.geeksforgeeks.org/problems/inorder-successor-in-bst/1) | ✅ Solved |
-| 72 | [`insertion_after_the_given_position_in_dll.cpp`](./geeks_for_geeks/insertion_after_the_given_position_in_dll.cpp) | [Sorted Insert in DLL](https://www.geeksforgeeks.org/problems/insert-in-sorted-way-in-a-sorted-dll/1) | ✅ Solved |
-| 73 | [`insertion_at_tail_in_ll.cpp`](./geeks_for_geeks/insertion_at_tail_in_ll.cpp) | [Linked List Insertion At End](https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1) | ✅ Solved |
-| 74 | [`introduction_to_trees.cpp`](./geeks_for_geeks/introduction_to_trees.cpp) | [Introduction to Trees](https://www.geeksforgeeks.org/problems/introduction-to-trees/1) | ✅ Solved |
-| 75 | [`isBinaryTreeheap.cpp`](./geeks_for_geeks/isBinaryTreeheap.cpp) | [Is Binary Tree Heap](https://www.geeksforgeeks.org/problems/is-binary-tree-heap/1) | ✅ Solved |
-| 76 | [`iterative_inorder.cpp`](./geeks_for_geeks/iterative_inorder.cpp) | [Iterative Inorder](https://www.geeksforgeeks.org/problems/inorder-traversal-iterative/1) | ✅ Solved |
-| 77 | [`iterative_postorder.cpp`](./geeks_for_geeks/iterative_postorder.cpp) | [Iterative Postorder](https://www.geeksforgeeks.org/problems/postorder-traversal-iterative/1) | ✅ Solved |
-| 78 | [`k_sized_subarray_maximum.cpp`](./geeks_for_geeks/k_sized_subarray_maximum.cpp) | [K Sized Subarray Maximum](https://www.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1) | ✅ Solved |
-| 79 | [`kadanes_algorithm.cpp`](./geeks_for_geeks/kadanes_algorithm.cpp) | [Kadane's Algorithm](https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1) | ✅ Solved |
-| 80 | [`kth_element_of_two_arrays.cpp`](./geeks_for_geeks/kth_element_of_two_arrays.cpp) | [K-th of Two Sorted Arrays](https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1) | ✅ Solved |
-| 81 | [`kth_largest_element_in_bst.cpp`](./geeks_for_geeks/kth_largest_element_in_bst.cpp) | [Kth Largest in BST](https://www.geeksforgeeks.org/problems/kth-largest-element-in-bst/1) | ✅ Solved |
-| 82 | [`kth_largest_in_a_stream.cpp`](./geeks_for_geeks/kth_largest_in_a_stream.cpp) | [Kth Largest in a Stream](https://www.geeksforgeeks.org/problems/kth-largest-element-in-a-stream2220/1) | ✅ Solved |
-| 83 | [`kth_missing_positive_number_in_a_sorted_array.cpp`](./geeks_for_geeks/kth_missing_positive_number_in_a_sorted_array.cpp) | [Kth Missing Positive Number in a Sorted Array](https://www.geeksforgeeks.org/problems/kth-missing-positive-number-in-a-sorted-array/1) | ✅ Solved |
-| 84 | [`kth_smallest_element_in_a_matrix.cpp`](./geeks_for_geeks/kth_smallest_element_in_a_matrix.cpp) | [Kth smallest element in a Matrix](https://www.geeksforgeeks.org/problems/kth-element-in-matrix/1) | ✅ Solved |
-| 85 | [`kth_smallest_element_in_an_array.cpp`](./geeks_for_geeks/kth_smallest_element_in_an_array.cpp) | [Kth Smallest](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1) | ✅ Solved |
-| 86 | [`largest_bst.cpp`](./geeks_for_geeks/largest_bst.cpp) | [Largest BST](https://www.geeksforgeeks.org/problems/largest-bst/1) | ✅ Solved |
-| 87 | [`largest_element_in_an_array.cpp`](./geeks_for_geeks/largest_element_in_an_array.cpp) | [Largest in Array](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1) | ✅ Solved |
-| 88 | [`largest_subarray_with_0_ sum.cpp`](./geeks_for_geeks/largest_subarray_with_0_ sum.cpp) | [Largest subarray with 0 sum](https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1) | ✅ Solved |
-| 89 | [`left_view_of_binary_tree.cpp`](./geeks_for_geeks/left_view_of_binary_tree.cpp) | [Left View of Binary Tree](https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1) | ✅ Solved |
-| 90 | [`length_of_loop_in_ll.cpp`](./geeks_for_geeks/length_of_loop_in_ll.cpp) | [Cycle Length in Linked List](https://www.geeksforgeeks.org/problems/find-length-of-loop/1) | ✅ Solved |
-| 91 | [`length_of_shortest_common_supersequence.cpp`](./geeks_for_geeks/length_of_shortest_common_supersequence.cpp) | [Shortest Common Supersequence](https://www.geeksforgeeks.org/problems/shortest-common-supersequence0322/1) | ✅ Solved |
-| 92 | [`longest_bitonic_sequence.cpp`](./geeks_for_geeks/longest_bitonic_sequence.cpp) | [Longest Bitonic Subsequence](https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1) | ✅ Solved |
-| 93 | [`longest_common_substring.cpp`](./geeks_for_geeks/longest_common_substring.cpp) | [Longest Common Substring](https://www.geeksforgeeks.org/problems/longest-common-substring1452/1) | ✅ Solved |
-| 94 | [`longest_consecutive_subsequence.cpp`](./geeks_for_geeks/longest_consecutive_subsequence.cpp) | [Longest Consecutive Subsequence](https://www.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1) | ✅ Solved |
-| 95 | [`longest_repeating_subsequence.cpp`](./geeks_for_geeks/longest_repeating_subsequence.cpp) | [Longest Repeating Subsequence](https://www.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1) | ✅ Solved |
-| 96 | [`longest_subarray_sum_with_k_positive_and_negative.cpp`](./geeks_for_geeks/longest_subarray_sum_with_k_positive_and_negative.cpp) | [Longest Subarray with Sum K](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) | ✅ Solved |
-| 97 | [`longest_subsequence_adjacent_diff1.cpp`](./geeks_for_geeks/longest_subsequence_adjacent_diff1.cpp) | [Longest Subsequence with Adjacent Diff 0 or 1](https://www.geeksforgeeks.org/problems/longest-subsequence-with-difference/1) | ✅ Solved |
-| 98 | [`longest_substring_with_k_unique.cpp`](./geeks_for_geeks/longest_substring_with_k_unique.cpp) | [Longest K unique substrings](https://www.geeksforgeeks.org/problems/longest-k-unique-substrings/1) | ✅ Solved |
-| 99 | [`majority_element.cpp`](./geeks_for_geeks/majority_element.cpp) | [Majority Element](https://www.geeksforgeeks.org/problems/majority-element-1587115620/1) | ✅ Solved |
-| 100 | [`majority_element_2.cpp`](./geeks_for_geeks/majority_element_2.cpp) | [Majority Element](https://www.geeksforgeeks.org/problems/majority-element-1587115620/1) | ✅ Solved |
-| 101 | [`matrix_chain_multiplication.cpp`](./geeks_for_geeks/matrix_chain_multiplication.cpp) | [Matrix Chain Multiplication](https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1) | ✅ Solved |
-| 102 | [`max_consecutive_bit.cpp`](./geeks_for_geeks/max_consecutive_bit.cpp) | [Max Consecutive Bit](https://www.geeksforgeeks.org/problems/max-consecutive-one/1) | ✅ Solved |
-| 103 | [`max_digit_sum_number_1_to_n.cpp`](./geeks_for_geeks/max_digit_sum_number_1_to_n.cpp) | [Max Digit Sum Number in 1 to n](https://www.geeksforgeeks.org/problems/biggest-integer-having-maximum-digit-sum1704/1) | ✅ Solved |
-| 104 | [`max_min_in_a_bt.cpp`](./geeks_for_geeks/max_min_in_a_bt.cpp) | [Max and Min in Binary Tree](https://www.geeksforgeeks.org/problems/max-and-min-element-in-binary-tree/1) | ✅ Solved |
-| 105 | [`max_score_from_subarray_mins.cpp`](./geeks_for_geeks/max_score_from_subarray_mins.cpp) | [Max Score from Subarray Mins](https://www.geeksforgeeks.org/problems/max-score-from-subarray-mins/1) | ✅ Solved |
-| 106 | [`maximum_sum_of_subarray_size_k.cpp`](./geeks_for_geeks/maximum_sum_of_subarray_size_k.cpp) | [Max Sum Subarray of size K](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1) | ✅ Solved |
-| 107 | [`maximum_xor_of_subarray_size_k.cpp`](./geeks_for_geeks/maximum_xor_of_subarray_size_k.cpp) | [Max Xor Subarray of size K](https://www.geeksforgeeks.org/problems/max-xor-subarray-of-size-k/1) | ✅ Solved |
-| 108 | [`mean_of_range_in_array.cpp`](./geeks_for_geeks/mean_of_range_in_array.cpp) | [Mean of Range in Array](https://www.geeksforgeeks.org/problems/mean-of-range-in-array2123/1) | ✅ Solved |
-| 109 | [`median_of_bst.cpp`](./geeks_for_geeks/median_of_bst.cpp) | [Median of BST](https://www.geeksforgeeks.org/problems/median-of-bst/1) | ✅ Solved |
-| 110 | [`merge_2_bsts.cpp`](./geeks_for_geeks/merge_2_bsts.cpp) | [Merge Two BSTs](https://www.geeksforgeeks.org/problems/merge-two-bst-s/1) | ✅ Solved |
-| 111 | [`merge_k_sorted_arrays.cpp`](./geeks_for_geeks/merge_k_sorted_arrays.cpp) | [Merge k Sorted Arrays](https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1) | ✅ Solved |
-| 112 | [`merge_two_binary_max_heaps.cpp`](./geeks_for_geeks/merge_two_binary_max_heaps.cpp) | [Merge Two Binary Max Heaps](https://www.geeksforgeeks.org/problems/merge-two-binary-max-heaps/1) | ✅ Solved |
-| 113 | [`min_cost_to_make_two_strings_identical.cpp`](./geeks_for_geeks/min_cost_to_make_two_strings_identical.cpp) | [Min Cost To Make Two Strings Identical](https://www.geeksforgeeks.org/problems/minimum-cost-to-make-two-strings-identical1107/1) | ✅ Solved |
-| 114 | [`min_element_in_bst.cpp`](./geeks_for_geeks/min_element_in_bst.cpp) | [Minimum in BST](https://www.geeksforgeeks.org/problems/minimum-element-in-bst/1) | ✅ Solved |
-| 115 | [`minimum_cost_of_ropes.cpp`](./geeks_for_geeks/minimum_cost_of_ropes.cpp) | [Min Cost to Connect Ropes](https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1) | ✅ Solved |
-| 116 | [`minimum_moves_to_sort_permutation.cpp`](./geeks_for_geeks/minimum_moves_to_sort_permutation.cpp) | [Minimum Moves to Sort Permutation](https://www.geeksforgeeks.org/problems/morning-assembly3038/1) | ✅ Solved |
-| 117 | [`minimum_number_of_coins.cpp`](./geeks_for_geeks/minimum_number_of_coins.cpp) | [Minimum Coins of 1, 2, 5 and 10](https://www.geeksforgeeks.org/problems/-minimum-number-of-coins4426/1) | ✅ Solved |
-| 118 | [`minimum_number_of_deletions_in_a_string_to_make_it_palindrome.cpp`](./geeks_for_geeks/minimum_number_of_deletions_in_a_string_to_make_it_palindrome.cpp) | [Minimum Deletions for Palindrome](https://www.geeksforgeeks.org/problems/minimum-deletitions1648/1) | ✅ Solved |
-| 119 | [`minimum_platforms.cpp`](./geeks_for_geeks/minimum_platforms.cpp) | [Minimum Platforms](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) | ✅ Solved |
-| 120 | [`minimum_squares_with_full_cuts.cpp`](./geeks_for_geeks/minimum_squares_with_full_cuts.cpp) | [Minimum Squares with Full Cuts](https://www.geeksforgeeks.org/problems/squares-in-rectangle3340/1) | ✅ Solved |
-| 121 | [`missing_and_repeating.cpp`](./geeks_for_geeks/missing_and_repeating.cpp) | [Missing And Repeating](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1) | ✅ Solved |
-| 122 | [`missing_in_array.cpp`](./geeks_for_geeks/missing_in_array.cpp) | [Missing in Array](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1) | ✅ Solved |
-| 123 | [`move_all_zeroes_to_end.cpp`](./geeks_for_geeks/move_all_zeroes_to_end.cpp) | [Move All Zeroes to End](https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1) | ✅ Solved |
-| 124 | [`n_meetings_in_one_room.cpp`](./geeks_for_geeks/n_meetings_in_one_room.cpp) | [Maximum Meetings in One Room](https://www.geeksforgeeks.org/problems/maximum-meetings-in-one-room/1) | ✅ Solved |
-| 125 | [`next_permutation.cpp`](./geeks_for_geeks/next_permutation.cpp) | [Next Permutation](https://www.geeksforgeeks.org/problems/next-permutation5226/1) | ✅ Solved |
-| 126 | [`num_of_distinct_islands.cpp`](./geeks_for_geeks/num_of_distinct_islands.cpp) | [Number of Distinct Islands](https://www.geeksforgeeks.org/problems/number-of-distinct-islands/1) | ✅ Solved |
-| 127 | [`number_of_islands.cpp`](./geeks_for_geeks/number_of_islands.cpp) | [Number of Islands After K Operations](https://www.geeksforgeeks.org/problems/number-of-islands/1) | ✅ Solved |
-| 128 | [`numberofconclaves.cpp`](./geeks_for_geeks/numberofconclaves.cpp) | [Number Of Enclaves](https://www.geeksforgeeks.org/problems/number-of-enclaves/1) | ✅ Solved |
-| 129 | [`odd_or_even.cpp`](./geeks_for_geeks/odd_or_even.cpp) | [Odd or Even](https://www.geeksforgeeks.org/problems/odd-or-even3618/1) | ✅ Solved |
-| 130 | [`pairs_with_given_gcd_and_lcm.cpp`](./geeks_for_geeks/pairs_with_given_gcd_and_lcm.cpp) | [Pairs with Given GCD and LCM](https://www.geeksforgeeks.org/problems/possible-pairs1550/1) | ✅ Solved |
-| 131 | [`palindrome_string.cpp`](./geeks_for_geeks/palindrome_string.cpp) | [Palindrome String](https://www.geeksforgeeks.org/problems/palindrome-string0817/1) | ✅ Solved |
-| 132 | [`partitions_with_given_difference.cpp`](./geeks_for_geeks/partitions_with_given_difference.cpp) | [Partitions with Given Difference](https://www.geeksforgeeks.org/problems/partitions-with-given-difference/1) | ✅ Solved |
-| 133 | [`postfix_to_infix_problem.cpp`](./geeks_for_geeks/postfix_to_infix_problem.cpp) | [Postfix to Infix Conversion](https://www.geeksforgeeks.org/problems/postfix-to-infix-conversion/1) | ✅ Solved |
-| 134 | [`postfix_to_prefix_conversion.cpp`](./geeks_for_geeks/postfix_to_prefix_conversion.cpp) | [Postfix to Prefix Conversion](https://www.geeksforgeeks.org/problems/postfix-to-prefix-conversion/1) | ✅ Solved |
-| 135 | [`predecessor_and_successor_in_bst.cpp`](./geeks_for_geeks/predecessor_and_successor_in_bst.cpp) | [Predecessor and Successor in BST](https://www.geeksforgeeks.org/problems/predecessor-and-successor/1) | ✅ Solved |
-| 136 | [`prefix_to_infix_conversion.cpp`](./geeks_for_geeks/prefix_to_infix_conversion.cpp) | [Prefix to Infix Conversion](https://www.geeksforgeeks.org/problems/prefix-to-infix-conversion/1) | ✅ Solved |
-| 137 | [`prefix_to_postfix_conversion.cpp`](./geeks_for_geeks/prefix_to_postfix_conversion.cpp) | [Prefix to Postfix Conversion](https://www.geeksforgeeks.org/problems/prefix-to-postfix-conversion/1) | ✅ Solved |
-| 138 | [`preorder_and_bst.cpp`](./geeks_for_geeks/preorder_and_bst.cpp) | [Check Preorder of BST](https://www.geeksforgeeks.org/problems/preorder-traversal-and-bst4006/1) | ✅ Solved |
-| 139 | [`preorder_traversal_iterative.cpp`](./geeks_for_geeks/preorder_traversal_iterative.cpp) | [Iterative Preorder Traversal](https://www.geeksforgeeks.org/problems/preorder-traversal-iterative/1) | ✅ Solved |
-| 140 | [`print_all_lcs_sequences.cpp`](./geeks_for_geeks/print_all_lcs_sequences.cpp) | [All Longest Common Subsequences](https://www.geeksforgeeks.org/problems/print-all-lcs-sequences3413/1) | ✅ Solved |
-| 141 | [`print_lis.cpp`](./geeks_for_geeks/print_lis.cpp) | [Printing Longest Increasing Subsequence](https://www.geeksforgeeks.org/problems/printing-longest-increasing-subsequence/1) | ✅ Solved |
-| 142 | [`print_prime_factors_of_a_number.py`](./geeks_for_geeks/print_prime_factors_of_a_number.py) | [Prime Factors](https://www.geeksforgeeks.org/problems/prime-factors5052/1) | ✅ Solved |
-| 143 | [`printing_max_subarray_sum.cpp`](./geeks_for_geeks/printing_max_subarray_sum.cpp) | [Printing Maximum Subarray Sum](https://www.geeksforgeeks.org/problems/printing-maximum-subarray-sum/1) | ✅ Solved |
-| 144 | [`pythagorean_triplet.cpp`](./geeks_for_geeks/pythagorean_triplet.cpp) | [Pythagorean Triplet](https://www.geeksforgeeks.org/problems/pythagorean-triplet3018/1) | ✅ Solved |
-| 145 | [`queue_reversal.cpp`](./geeks_for_geeks/queue_reversal.cpp) | [Queue Reversal](https://www.geeksforgeeks.org/problems/queue-reversal/1) | ✅ Solved |
-| 146 | [`queue_using_arrays.cpp`](./geeks_for_geeks/queue_using_arrays.cpp) | [Queue Using Array](https://www.geeksforgeeks.org/problems/implement-queue-using-array/1) | ✅ Solved |
-| 147 | [`rat_in_a_maze.cpp`](./geeks_for_geeks/rat_in_a_maze.cpp) | [Rat in a Maze](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) | ✅ Solved |
-| 148 | [`replace_0s_with_Xs.cpp`](./geeks_for_geeks/replace_0s_with_Xs.cpp) | [Replace O's with X's](https://www.geeksforgeeks.org/problems/replace-os-with-xs/1) | ✅ Solved |
-| 149 | [`reverse_a_dll.cpp`](./geeks_for_geeks/reverse_a_dll.cpp) | [Reverse a Doubly Linked List](https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1) | ✅ Solved |
-| 150 | [`reverse_a_stack_using_recursion.cpp`](./geeks_for_geeks/reverse_a_stack_using_recursion.cpp) | [Reverse a Stack](https://www.geeksforgeeks.org/problems/reverse-a-stack/1) | ✅ Solved |
-| 151 | [`reverse_first_k_of_a_queue.cpp`](./geeks_for_geeks/reverse_first_k_of_a_queue.cpp) | [Reverse first K of a Queue](https://www.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1) | ✅ Solved |
-| 152 | [`rod_cutting.cpp`](./geeks_for_geeks/rod_cutting.cpp) | [Rod Cutting](https://www.geeksforgeeks.org/problems/rod-cutting0840/1) | ✅ Solved |
-| 153 | [`root_to_leaf_paths.cpp`](./geeks_for_geeks/root_to_leaf_paths.cpp) | [Root to Leaf Paths](https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1) | ✅ Solved |
-| 154 | [`rotate_array_by_d_places.cpp`](./geeks_for_geeks/rotate_array_by_d_places.cpp) | [Rotate Array](https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1) | ✅ Solved |
-| 155 | [`rotate_array_by_one.cpp`](./geeks_for_geeks/rotate_array_by_one.cpp) | [Rotate Array by One](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | ✅ Solved |
-| 156 | [`rotate_matrix_by_90_degree.cpp`](./geeks_for_geeks/rotate_matrix_by_90_degree.cpp) | [Rotate by 90 degree](https://www.geeksforgeeks.org/problems/rotate-by-90-degree-1587115621/1) | ✅ Solved |
-| 157 | [`row_with_max_1s.cpp`](./geeks_for_geeks/row_with_max_1s.cpp) | [Row with Max 1s in Rowwise Sorted](https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1) | ✅ Solved |
-| 158 | [`search_in_a_LL.cpp`](./geeks_for_geeks/search_in_a_LL.cpp) | [Search in Linked List](https://www.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1) | ✅ Solved |
-| 159 | [`search_insert_position_of_k_in_sorted_array.cpp`](./geeks_for_geeks/search_insert_position_of_k_in_sorted_array.cpp) | [Sorted Insert Position](https://www.geeksforgeeks.org/problems/search-insert-position-of-k-in-a-sorted-array/1) | ✅ Solved |
-| 160 | [`set_matrix_zeroes.cpp`](./geeks_for_geeks/set_matrix_zeroes.cpp) | [Set Matrix Zeros](https://www.geeksforgeeks.org/problems/set-matrix-zeroes/1) | ✅ Solved |
-| 161 | [`set_the_rightmost_unset_bit.cpp`](./geeks_for_geeks/set_the_rightmost_unset_bit.cpp) | [Set Rightmost Unset Bit](https://www.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1) | ✅ Solved |
-| 162 | [`shortest_job_first.cpp`](./geeks_for_geeks/shortest_job_first.cpp) | [Shortest Job first](https://www.geeksforgeeks.org/problems/shortest-job-first/1) | ✅ Solved |
-| 163 | [`size_of_binary_tree.cpp`](./geeks_for_geeks/size_of_binary_tree.cpp) | [Size of Binary Tree](https://www.geeksforgeeks.org/problems/size-of-binary-tree/1) | ✅ Solved |
-| 164 | [`smallest_sum_continguous_subarray.cpp`](./geeks_for_geeks/smallest_sum_continguous_subarray.cpp) | [Minimum Sum Subarray](https://www.geeksforgeeks.org/problems/smallest-sum-contiguous-subarray/1) | ✅ Solved |
-| 165 | [`smallest_window_containing_0_1_2.cpp`](./geeks_for_geeks/smallest_window_containing_0_1_2.cpp) | [Smallest window containing 0, 1 and 2](https://www.geeksforgeeks.org/problems/smallest-window-containing-0-1-and-2--170637/1) | ✅ Solved |
-| 166 | [`sort_0s_1s_2s.cpp`](./geeks_for_geeks/sort_0s_1s_2s.cpp) | [Sort 0s, 1s and 2s](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) | ✅ Solved |
-| 167 | [`sort_a_ll_of_0s_1s_2s.cpp`](./geeks_for_geeks/sort_a_ll_of_0s_1s_2s.cpp) | [Sort a linked list of 0s, 1s and 2s](https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1) | ✅ Solved |
-| 168 | [`sort_a_stack_using_recursion.cpp`](./geeks_for_geeks/sort_a_stack_using_recursion.cpp) | [Sort a stack](https://www.geeksforgeeks.org/problems/sort-a-stack/1) | ✅ Solved |
-| 169 | [`sort_in_specific_order.cpp`](./geeks_for_geeks/sort_in_specific_order.cpp) | [Sort in specific order](https://www.geeksforgeeks.org/problems/sort-in-specific-order2422/1) | ✅ Solved |
-| 170 | [`sort_two_parts_sorted.cpp`](./geeks_for_geeks/sort_two_parts_sorted.cpp) | [Sort Two Parts Sorted](https://www.geeksforgeeks.org/problems/sort-the-half-sorted2157/1) | ✅ Solved |
-| 171 | [`spirally_traversing_a_matrix.cpp`](./geeks_for_geeks/spirally_traversing_a_matrix.cpp) | [Spirally Traversing a Matrix](https://www.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1) | ✅ Solved |
-| 172 | [`square_root.cpp`](./geeks_for_geeks/square_root.cpp) | [Square Root](https://www.geeksforgeeks.org/problems/square-root/1) | ✅ Solved |
-| 173 | [`square_root_bs.cpp`](./geeks_for_geeks/square_root_bs.cpp) | [Square Root](https://www.geeksforgeeks.org/problems/square-root/1) | ✅ Solved |
-| 174 | [`subarrays_with_k_distinct_integers.cpp`](./geeks_for_geeks/subarrays_with_k_distinct_integers.cpp) | [Subarrays with K Different Integers](https://www.geeksforgeeks.org/problems/subarrays-with-k-different-integers/1) | ✅ Solved |
-| 175 | [`subarrays_with_sum_k.cpp`](./geeks_for_geeks/subarrays_with_sum_k.cpp) | [Subarrays with sum K](https://www.geeksforgeeks.org/problems/subarrays-with-sum-k/1) | ✅ Solved |
-| 176 | [`subset_sum_problem.cpp`](./geeks_for_geeks/subset_sum_problem.cpp) | [Subset Sum Problem](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | ✅ Solved |
-| 177 | [`subsets.cpp`](./geeks_for_geeks/subsets.cpp) | [Distinct Subsets](https://www.geeksforgeeks.org/problems/subset-sum-ii/1) | ✅ Solved |
-| 178 | [`subsets_sums.cpp`](./geeks_for_geeks/subsets_sums.cpp) | [Subset Sums](https://www.geeksforgeeks.org/problems/subset-sums2234/1) | ✅ Solved |
-| 179 | [`substrings_with_k_distinct.cpp`](./geeks_for_geeks/substrings_with_k_distinct.cpp) | [Count number of substrings](https://www.geeksforgeeks.org/problems/count-number-of-substrings4528/1) | ✅ Solved |
-| 180 | [`sum_of_binary_tree.cpp`](./geeks_for_geeks/sum_of_binary_tree.cpp) | [Sum of Binary Tree](https://www.geeksforgeeks.org/problems/sum-of-binary-tree/1) | ✅ Solved |
-| 181 | [`sum_of_elements_between_k1_and_k2_smallest_element.cpp`](./geeks_for_geeks/sum_of_elements_between_k1_and_k2_smallest_element.cpp) | [Sum Between k1'th and k2'th Smallest](https://www.geeksforgeeks.org/problems/sum-of-elements-between-k1th-and-k2th-smallest-elements3133/1) | ✅ Solved |
-| 182 | [`sum_of_k_smallest_elements_in_bst.cpp`](./geeks_for_geeks/sum_of_k_smallest_elements_in_bst.cpp) | [Sum of k smallest in BST](https://www.geeksforgeeks.org/problems/sum-of-k-smallest-elements-in-bst3029/1) | ✅ Solved |
-| 183 | [`sum_of_nodes_in_bst_range.cpp`](./geeks_for_geeks/sum_of_nodes_in_bst_range.cpp) | [Sum of Nodes in BST Range](https://www.geeksforgeeks.org/problems/range-sum-of-bst/1) | ✅ Solved |
-| 184 | [`sum_of_pariwise_ands.cpp`](./geeks_for_geeks/sum_of_pariwise_ands.cpp) | [Sum of pairwise AND](https://www.geeksforgeeks.org/problems/sum-of-pairwise-ands5271/1) | ✅ Solved |
-| 185 | [`swap_two_numbers.cpp`](./geeks_for_geeks/swap_two_numbers.cpp) | [Swap Two Numbers](https://www.geeksforgeeks.org/problems/swap-the-numbers/1) | ✅ Solved |
-| 186 | [`top_view_of_binary_tree.cpp`](./geeks_for_geeks/top_view_of_binary_tree.cpp) | [Top View of Binary Tree](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1) | ✅ Solved |
-| 187 | [`topo_sort.cpp`](./geeks_for_geeks/topo_sort.cpp) | [Topological Sort](https://www.geeksforgeeks.org/problems/topological-sort/1) | ✅ Solved |
-| 188 | [`tower_of_hanoi.cpp`](./geeks_for_geeks/tower_of_hanoi.cpp) | [Tower Of Hanoi](https://www.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1) | ✅ Solved |
-| 189 | [`two_equal_sum_subarrays.cpp`](./geeks_for_geeks/two_equal_sum_subarrays.cpp) | [Two Equal Sum Subarrays](https://www.geeksforgeeks.org/problems/split-an-array-into-two-equal-sum-subarrays/1) | ✅ Solved |
-| 190 | [`two_odd_occuring.cpp`](./geeks_for_geeks/two_odd_occuring.cpp) | [Two odd Occuring](https://www.geeksforgeeks.org/problems/two-numbers-with-odd-occurrences5846/1) | ✅ Solved |
-| 191 | [`two_sum_pairf_of_nums_equal_to_target.cpp`](./geeks_for_geeks/two_sum_pairf_of_nums_equal_to_target.cpp) | [Key Pair](https://www.geeksforgeeks.org/problems/key-pair5616/1) | ✅ Solved |
-| 192 | [`two_water_jug_problem.cpp`](./geeks_for_geeks/two_water_jug_problem.cpp) | [Two water Jug problem](https://www.geeksforgeeks.org/problems/two-water-jug-problem3402/1) | ✅ Solved |
-| 193 | [`unbounded_knapsack.cpp`](./geeks_for_geeks/unbounded_knapsack.cpp) | [Knapsack with Duplicate Items](https://www.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1) | ✅ Solved |
-| 194 | [`undirected_graph_cycle.cpp`](./geeks_for_geeks/undirected_graph_cycle.cpp) | [Undirected Graph Cycle](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) | ✅ Solved |
-| 195 | [`union_of_two_sorted_arrays.cpp`](./geeks_for_geeks/union_of_two_sorted_arrays.cpp) | [Union of 2 Sorted Arrays](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1) | ✅ Solved |
-| 196 | [`unique_binary_tree_requirements.cpp`](./geeks_for_geeks/unique_binary_tree_requirements.cpp) | [Unique Binary Tree Requirements](https://www.geeksforgeeks.org/problems/unique-binary-tree-requirements/1) | ✅ Solved |
-| 197 | [`unique_number_1.cpp`](./geeks_for_geeks/unique_number_1.cpp) | [Find Unique Number](https://www.geeksforgeeks.org/problems/find-unique-number/1) | ✅ Solved |
-| 198 | [`unoccupied_computers.cpp`](./geeks_for_geeks/unoccupied_computers.cpp) | [Unoccupied Computers](https://www.geeksforgeeks.org/problems/unoccupied-computers-1646661078/1) | ✅ Solved |
-| 199 | [`values_with_equal_array_remainders.cpp`](./geeks_for_geeks/values_with_equal_array_remainders.cpp) | [Values with Equal Array Remainders](https://www.geeksforgeeks.org/problems/k-modulus-array-element0255/1) | ✅ Solved |
-| 200 | [`visit_leaves_with_budget.cpp`](./geeks_for_geeks/visit_leaves_with_budget.cpp) | [Visit Leaves with Budget](https://www.geeksforgeeks.org/problems/leaf-under-budget/1) | ✅ Solved |
-| 201 | [`ways_to_reach_origin.cpp`](./geeks_for_geeks/ways_to_reach_origin.cpp) | [Paths to Reach Origin](https://www.geeksforgeeks.org/problems/paths-to-reach-origin3850/1) | ✅ Solved |
-| 202 | [`y_intersection_linked_list.cpp`](./geeks_for_geeks/y_intersection_linked_list.cpp) | [Intersection Point in Y Shaped Linked Lists](https://www.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1) | ✅ Solved |
+| 3 | [`adding_ones.cpp`](./geeks_for_geeks/adding_ones.cpp) | [Adding Ones](https://www.geeksforgeeks.org/problems/adding-ones3628/1) | ✅ Solved |
+| 4 | [`all_divisors_of_a_number.cpp`](./geeks_for_geeks/all_divisors_of_a_number.cpp) | [All Divisors of a Number](https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1) | ✅ Solved |
+| 5 | [`alternative_positive_negative.cpp`](./geeks_for_geeks/alternative_positive_negative.cpp) | [Alternate Positive Negative](https://www.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1) | ✅ Solved |
+| 6 | [`array_leaders.cpp`](./geeks_for_geeks/array_leaders.cpp) | [Array Leaders](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1) | ✅ Solved |
+| 7 | [`array_search.cpp`](./geeks_for_geeks/array_search.cpp) | [Binary Search on ArrayList](https://www.geeksforgeeks.org/problems/binary-search-on-arraylist/1) | ✅ Solved |
+| 8 | [`array_to_doubly_ll.cpp`](./geeks_for_geeks/array_to_doubly_ll.cpp) | [Doubly Linked List from an Array](https://www.geeksforgeeks.org/problems/create-a-doubly-linked-list-from-a-given-array/1) | ✅ Solved |
+| 9 | [`array_to_linkedlist.cpp`](./geeks_for_geeks/array_to_linkedlist.cpp) | [Array to Linked List](https://www.geeksforgeeks.org/problems/introduction-to-linked-list/1) | ✅ Solved |
+| 10 | [`bfs_of_a_graph.cpp`](./geeks_for_geeks/bfs_of_a_graph.cpp) | [BFS of Graph](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | ✅ Solved |
+| 11 | [`binary_search.cpp`](./geeks_for_geeks/binary_search.cpp) | [Binary Search on ArrayList](https://www.geeksforgeeks.org/problems/binary-search-on-arraylist/1) | ✅ Solved |
+| 12 | [`binary_tree_representation.cpp`](./geeks_for_geeks/binary_tree_representation.cpp) | [Binary Tree Representation](https://www.geeksforgeeks.org/problems/binary-tree-representation/1) | ✅ Solved |
+| 13 | [`bipartite_graph_using_dfs.cpp`](./geeks_for_geeks/bipartite_graph_using_dfs.cpp) | [Bipartite Graph](https://www.geeksforgeeks.org/problems/bipartite-graph/1) | ✅ Solved |
+| 14 | [`bird_and_max_fruit_gathering.cpp`](./geeks_for_geeks/bird_and_max_fruit_gathering.cpp) | [Bird and Max Fruit Gathering](https://www.geeksforgeeks.org/problems/bird-and-maximum-fruit-gathering--170645/1) | ✅ Solved |
+| 15 | [`boolean_parenthezation.cpp`](./geeks_for_geeks/boolean_parenthezation.cpp) | [Boolean Parenthesization](https://www.geeksforgeeks.org/problems/boolean-parenthesization5610/1) | ✅ Solved |
+| 16 | [`bottom_view_of_binary_tree.cpp`](./geeks_for_geeks/bottom_view_of_binary_tree.cpp) | [Bottom View of Binary Tree](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) | ✅ Solved |
+| 17 | [`boundary_traversal_of_binary_tree.cpp`](./geeks_for_geeks/boundary_traversal_of_binary_tree.cpp) | [Tree Boundary Traversal](https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1) | ✅ Solved |
+| 18 | [`bst_keys_in_a_range.cpp`](./geeks_for_geeks/bst_keys_in_a_range.cpp) | [Remove BST keys outside given range](https://www.geeksforgeeks.org/problems/remove-bst-keys-outside-given-range/1) | ✅ Solved |
+| 19 | [`bst_with_dead_end.cpp`](./geeks_for_geeks/bst_with_dead_end.cpp) | [BST with Dead End](https://www.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1) | ✅ Solved |
+| 20 | [`bstToMaxHeap.cpp`](./geeks_for_geeks/bstToMaxHeap.cpp) | [BST to Special Max Heap](https://www.geeksforgeeks.org/problems/bst-to-max-heap/1) | ✅ Solved |
+| 21 | [`buildings_with_sunlight.cpp`](./geeks_for_geeks/buildings_with_sunlight.cpp) | [Buildings with Sunlight](https://www.geeksforgeeks.org/problems/buildings-receiving-sunlight3032/1) | ✅ Solved |
+| 22 | [`burning_tree.cpp`](./geeks_for_geeks/burning_tree.cpp) | [Burning Tree](https://www.geeksforgeeks.org/problems/burning-tree/1) | ✅ Solved |
+| 23 | [`bus_conductor.cpp`](./geeks_for_geeks/bus_conductor.cpp) | [Bus Conductor](https://www.geeksforgeeks.org/problems/bus-conductor--170647/1) | ✅ Solved |
+| 24 | [`ceil_in_a_sorted_array.cpp`](./geeks_for_geeks/ceil_in_a_sorted_array.cpp) | [Ceil in a Sorted Array](https://www.geeksforgeeks.org/problems/ceil-in-a-sorted-array/1) | ✅ Solved |
+| 25 | [`check_for_power.cpp`](./geeks_for_geeks/check_for_power.cpp) | [Check Power of 8](https://www.geeksforgeeks.org/problems/check-if-a-integer-is-power-of-8-or-not2537/1) | ✅ Solved |
+| 26 | [`check_if_there_exists_a_subsequence_with_the_target_sum_k.cpp`](./geeks_for_geeks/check_if_there_exists_a_subsequence_with_the_target_sum_k.cpp) | [Subsequence with Sum K](https://www.geeksforgeeks.org/problems/check-if-there-exists-a-subsequence-with-sum-k/1) | ✅ Solved |
+| 27 | [`check_kth_bit.cpp`](./geeks_for_geeks/check_kth_bit.cpp) | [Set kth Bit](https://www.geeksforgeeks.org/problems/set-kth-bit3724/1) | ✅ Solved |
+| 28 | [`children_sum_property_in_bt.cpp`](./geeks_for_geeks/children_sum_property_in_bt.cpp) | [Children Sum in a Binary Tree](https://www.geeksforgeeks.org/problems/children-sum-parent/1) | ✅ Solved |
+| 29 | [`construct_bst_from_postorder.cpp`](./geeks_for_geeks/construct_bst_from_postorder.cpp) | [Construct BST from Postorder](https://www.geeksforgeeks.org/problems/construct-bst-from-post-order/1) | ✅ Solved |
+| 30 | [`convert_min_heap_to_max_heap.cpp`](./geeks_for_geeks/convert_min_heap_to_max_heap.cpp) | [Convert Min Heap to Max Heap](https://www.geeksforgeeks.org/problems/convert-min-heap-to-max-heap/1) | ✅ Solved |
+| 31 | [`count_dearrangements.cpp`](./geeks_for_geeks/count_dearrangements.cpp) | [Count Derangements](https://www.geeksforgeeks.org/problems/dearrangement-of-balls0918/1) | ✅ Solved |
+| 32 | [`count_digits.cpp`](./geeks_for_geeks/count_digits.cpp) | [Digits in N that Divide it](https://www.geeksforgeeks.org/problems/count-digits-in-given-number-n-which-divide-n3331/1) | ✅ Solved |
+| 33 | [`count_distinct_elements_in_every_window.cpp`](./geeks_for_geeks/count_distinct_elements_in_every_window.cpp) | [Count Distinct Elements in Every Window](https://www.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1) | ✅ Solved |
+| 34 | [`count_distinct_in_an_array.cpp`](./geeks_for_geeks/count_distinct_in_an_array.cpp) | [Count Distinct in Array](https://www.geeksforgeeks.org/problems/find-distinct-elements--130928/1) | ✅ Solved |
+| 35 | [`count_elements_less_than_or_equal_to_in_a_rotated_sorted_array.cpp`](./geeks_for_geeks/count_elements_less_than_or_equal_to_in_a_rotated_sorted_array.cpp) | [Count elements less than or equal to k in a sorted rotated array](https://www.geeksforgeeks.org/problems/count-elements-less-than-or-equal-to-k-in-a-sorted-rotated-array/1) | ✅ Solved |
+| 36 | [`count_inversions.cpp`](./geeks_for_geeks/count_inversions.cpp) | [Count Inversions](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | ✅ Solved |
+| 37 | [`count_leaves_in_Binary_tree.cpp`](./geeks_for_geeks/count_leaves_in_Binary_tree.cpp) | [Count Leaves in Binary Tree](https://www.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1) | ✅ Solved |
+| 38 | [`count_linkedlist_nodes.cpp`](./geeks_for_geeks/count_linkedlist_nodes.cpp) | [Length of Linked List](https://www.geeksforgeeks.org/problems/count-nodes-of-linked-list/1) | ✅ Solved |
+| 39 | [`count_non_leaf_nodes_in_binary_tree.cpp`](./geeks_for_geeks/count_non_leaf_nodes_in_binary_tree.cpp) | [Count Internal Nodes in Tree](https://www.geeksforgeeks.org/problems/count-non-leaf-nodes-in-tree/1) | ✅ Solved |
+| 40 | [`count_x_in_range_of_a_sorted_array.cpp`](./geeks_for_geeks/count_x_in_range_of_a_sorted_array.cpp) | [Count X in Range of a Sorted Array](https://www.geeksforgeeks.org/problems/count-x-in-range-of-a-sorted-array/1) | ✅ Solved |
+| 41 | [`delete_all_occurences_of_a_given_key.cpp`](./geeks_for_geeks/delete_all_occurences_of_a_given_key.cpp) | [Delete All Occurrences in a Linked list](https://www.geeksforgeeks.org/problems/delete-keys-in-a-linked-list/1) | ✅ Solved |
+| 42 | [`delete_kth_position_elem_in_dll.cpp`](./geeks_for_geeks/delete_kth_position_elem_in_dll.cpp) | [Delete node in Doubly Linked List](https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1) | ✅ Solved |
+| 43 | [`dfs_of_a_graph.cpp`](./geeks_for_geeks/dfs_of_a_graph.cpp) | [DFS of Graph](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | ✅ Solved |
+| 44 | [`diagonal_tree_traversal.cpp`](./geeks_for_geeks/diagonal_tree_traversal.cpp) | [Diagonal Tree Traversal](https://www.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree/1) | ✅ Solved |
+| 45 | [`directed_graph_cycle.cpp`](./geeks_for_geeks/directed_graph_cycle.cpp) | [Directed Graph Cycle](https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) | ✅ Solved |
+| 46 | [`distance_of_nearest_cell_having_1.cpp`](./geeks_for_geeks/distance_of_nearest_cell_having_1.cpp) | [Distance of nearest cell having 1](https://www.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1) | ✅ Solved |
+| 47 | [`does_array_represent_heap.cpp`](./geeks_for_geeks/does_array_represent_heap.cpp) | [Check if Array is Max Heap](https://www.geeksforgeeks.org/problems/does-array-represent-heap4345/1) | ✅ Solved |
+| 48 | [`dominant_pairs.cpp`](./geeks_for_geeks/dominant_pairs.cpp) | [Dominant Pairs](https://www.geeksforgeeks.org/problems/dominant-pairs/1) | ✅ Solved |
+| 49 | [`duplicates_in_a_limited_range_array.cpp`](./geeks_for_geeks/duplicates_in_a_limited_range_array.cpp) | [Duplicates in Limited Range Array](https://www.geeksforgeeks.org/problems/find-duplicates-in-an-array/1) | ✅ Solved |
+| 50 | [`even_and_odd.cpp`](./geeks_for_geeks/even_and_odd.cpp) | [Even at Even Index and Odd at Odd](https://www.geeksforgeeks.org/problems/even-and-odd/1) | ✅ Solved |
+| 51 | [`find_common_nodes_in_two_bsts.cpp`](./geeks_for_geeks/find_common_nodes_in_two_bsts.cpp) | [Common Nodes in Two BSTs](https://www.geeksforgeeks.org/problems/print-common-nodes-in-bst/1) | ✅ Solved |
+| 52 | [`find_pairs_with_given_sum_in_dll.cpp`](./geeks_for_geeks/find_pairs_with_given_sum_in_dll.cpp) | [Pair Sum in Sorted Doubly Linked List](https://www.geeksforgeeks.org/problems/find-pairs-with-given-sum-in-doubly-linked-list/1) | ✅ Solved |
+| 53 | [`find_xor_of_numbers_l_to_r.cpp`](./geeks_for_geeks/find_xor_of_numbers_l_to_r.cpp) | [XOR of a Number Range](https://www.geeksforgeeks.org/problems/find-xor-of-numbers-from-l-to-r/1) | ✅ Solved |
+| 54 | [`first_negative_in_every_window_of_size_k.cpp`](./geeks_for_geeks/first_negative_in_every_window_of_size_k.cpp) | [First Negative in Windows of Size K](https://www.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1) | ✅ Solved |
+| 55 | [`first_non_repeating_character_in_a_stream.cpp`](./geeks_for_geeks/first_non_repeating_character_in_a_stream.cpp) | [Stream First Non-repeating](https://www.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1) | ✅ Solved |
+| 56 | [`flattening_of_ll.cpp`](./geeks_for_geeks/flattening_of_ll.cpp) | [Flattening a Linked List](https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1) | ✅ Solved |
+| 57 | [`floor_in_a_sorted_array.cpp`](./geeks_for_geeks/floor_in_a_sorted_array.cpp) | [Floor in a Sorted Array](https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1) | ✅ Solved |
+| 58 | [`fractional_knapsack.cpp`](./geeks_for_geeks/fractional_knapsack.cpp) | [Fractional Knapsack](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1) | ✅ Solved |
+| 59 | [`frequencies_in_a_limited_array.cpp`](./geeks_for_geeks/frequencies_in_a_limited_array.cpp) | [Frequencies in a Limited Array](https://www.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1) | ✅ Solved |
+| 60 | [`frog_jump.cpp`](./geeks_for_geeks/frog_jump.cpp) | [Frog Jump](https://www.geeksforgeeks.org/problems/geek-jump/1) | ✅ Solved |
+| 61 | [`fruit_into_baskets.cpp`](./geeks_for_geeks/fruit_into_baskets.cpp) | [Fruit Into Baskets](https://www.geeksforgeeks.org/problems/fruit-into-baskets-1663137462/1) | ✅ Solved |
+| 62 | [`gas_station.cpp`](./geeks_for_geeks/gas_station.cpp) | [Minimize Max Distance of Adjacent Gas Stations](https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1) | ✅ Solved |
+| 63 | [`geeks_training.cpp`](./geeks_for_geeks/geeks_training.cpp) | [Geek's Training](https://www.geeksforgeeks.org/problems/geeks-training/1) | ✅ Solved |
+| 64 | [`generate_all_binary_strings.cpp`](./geeks_for_geeks/generate_all_binary_strings.cpp) | [Generate all binary strings](https://www.geeksforgeeks.org/problems/generate-all-binary-strings/1) | ✅ Solved |
+| 65 | [`generate_binary_strings.cpp`](./geeks_for_geeks/generate_binary_strings.cpp) | [Generate Binary Strings](https://www.geeksforgeeks.org/problems/generate-binary-string3642/1) | ✅ Solved |
+| 66 | [`height_of_a_heap.cpp`](./geeks_for_geeks/height_of_a_heap.cpp) | [Height of Heap](https://www.geeksforgeeks.org/problems/height-of-heap5025/1) | ✅ Solved |
+| 67 | [`identical_trees.cpp`](./geeks_for_geeks/identical_trees.cpp) | [Identical Trees](https://www.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1) | ✅ Solved |
+| 68 | [`implement_lower_bound.cpp`](./geeks_for_geeks/implement_lower_bound.cpp) | [Implement Lower Bound](https://www.geeksforgeeks.org/problems/implement-lower-bound/1) | ✅ Solved |
+| 69 | [`implement_upper_bound.cpp`](./geeks_for_geeks/implement_upper_bound.cpp) | [Implement Upper Bound](https://www.geeksforgeeks.org/problems/implement-upper-bound/1) | ✅ Solved |
+| 70 | [`increasing_subsequence.cpp`](./geeks_for_geeks/increasing_subsequence.cpp) | [Count Increasing Subsequences](https://www.geeksforgeeks.org/problems/count-increasing-subsequences3134/1) | ✅ Solved |
+| 71 | [`infix_to_postfix_conversion.cpp`](./geeks_for_geeks/infix_to_postfix_conversion.cpp) | [Postfix to Infix Conversion](https://www.geeksforgeeks.org/problems/postfix-to-infix-conversion/1) | ✅ Solved |
+| 72 | [`inorder_successor_in_bst.cpp`](./geeks_for_geeks/inorder_successor_in_bst.cpp) | [Inorder Successor in BST](https://www.geeksforgeeks.org/problems/inorder-successor-in-bst/1) | ✅ Solved |
+| 73 | [`insertion_after_the_given_position_in_dll.cpp`](./geeks_for_geeks/insertion_after_the_given_position_in_dll.cpp) | [Sorted Insert in DLL](https://www.geeksforgeeks.org/problems/insert-in-sorted-way-in-a-sorted-dll/1) | ✅ Solved |
+| 74 | [`insertion_at_tail_in_ll.cpp`](./geeks_for_geeks/insertion_at_tail_in_ll.cpp) | [Linked List Insertion At End](https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1) | ✅ Solved |
+| 75 | [`introduction_to_trees.cpp`](./geeks_for_geeks/introduction_to_trees.cpp) | [Introduction to Trees](https://www.geeksforgeeks.org/problems/introduction-to-trees/1) | ✅ Solved |
+| 76 | [`isBinaryTreeheap.cpp`](./geeks_for_geeks/isBinaryTreeheap.cpp) | [Is Binary Tree Heap](https://www.geeksforgeeks.org/problems/is-binary-tree-heap/1) | ✅ Solved |
+| 77 | [`iterative_inorder.cpp`](./geeks_for_geeks/iterative_inorder.cpp) | [Iterative Inorder](https://www.geeksforgeeks.org/problems/inorder-traversal-iterative/1) | ✅ Solved |
+| 78 | [`iterative_postorder.cpp`](./geeks_for_geeks/iterative_postorder.cpp) | [Iterative Postorder](https://www.geeksforgeeks.org/problems/postorder-traversal-iterative/1) | ✅ Solved |
+| 79 | [`k_sized_subarray_maximum.cpp`](./geeks_for_geeks/k_sized_subarray_maximum.cpp) | [K Sized Subarray Maximum](https://www.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1) | ✅ Solved |
+| 80 | [`kadanes_algorithm.cpp`](./geeks_for_geeks/kadanes_algorithm.cpp) | [Kadane's Algorithm](https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1) | ✅ Solved |
+| 81 | [`kth_element_of_two_arrays.cpp`](./geeks_for_geeks/kth_element_of_two_arrays.cpp) | [K-th of Two Sorted Arrays](https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1) | ✅ Solved |
+| 82 | [`kth_largest_element_in_bst.cpp`](./geeks_for_geeks/kth_largest_element_in_bst.cpp) | [Kth Largest in BST](https://www.geeksforgeeks.org/problems/kth-largest-element-in-bst/1) | ✅ Solved |
+| 83 | [`kth_largest_in_a_stream.cpp`](./geeks_for_geeks/kth_largest_in_a_stream.cpp) | [Kth Largest in a Stream](https://www.geeksforgeeks.org/problems/kth-largest-element-in-a-stream2220/1) | ✅ Solved |
+| 84 | [`kth_missing_positive_number_in_a_sorted_array.cpp`](./geeks_for_geeks/kth_missing_positive_number_in_a_sorted_array.cpp) | [Kth Missing Positive Number in a Sorted Array](https://www.geeksforgeeks.org/problems/kth-missing-positive-number-in-a-sorted-array/1) | ✅ Solved |
+| 85 | [`kth_smallest_element_in_a_matrix.cpp`](./geeks_for_geeks/kth_smallest_element_in_a_matrix.cpp) | [Kth smallest element in a Matrix](https://www.geeksforgeeks.org/problems/kth-element-in-matrix/1) | ✅ Solved |
+| 86 | [`kth_smallest_element_in_an_array.cpp`](./geeks_for_geeks/kth_smallest_element_in_an_array.cpp) | [Kth Smallest](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1) | ✅ Solved |
+| 87 | [`largest_bst.cpp`](./geeks_for_geeks/largest_bst.cpp) | [Largest BST](https://www.geeksforgeeks.org/problems/largest-bst/1) | ✅ Solved |
+| 88 | [`largest_element_in_an_array.cpp`](./geeks_for_geeks/largest_element_in_an_array.cpp) | [Largest in Array](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1) | ✅ Solved |
+| 89 | [`largest_subarray_with_0_ sum.cpp`](./geeks_for_geeks/largest_subarray_with_0_ sum.cpp) | [Largest subarray with 0 sum](https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1) | ✅ Solved |
+| 90 | [`left_view_of_binary_tree.cpp`](./geeks_for_geeks/left_view_of_binary_tree.cpp) | [Left View of Binary Tree](https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1) | ✅ Solved |
+| 91 | [`length_of_loop_in_ll.cpp`](./geeks_for_geeks/length_of_loop_in_ll.cpp) | [Cycle Length in Linked List](https://www.geeksforgeeks.org/problems/find-length-of-loop/1) | ✅ Solved |
+| 92 | [`length_of_shortest_common_supersequence.cpp`](./geeks_for_geeks/length_of_shortest_common_supersequence.cpp) | [Shortest Common Supersequence](https://www.geeksforgeeks.org/problems/shortest-common-supersequence0322/1) | ✅ Solved |
+| 93 | [`longest_bitonic_sequence.cpp`](./geeks_for_geeks/longest_bitonic_sequence.cpp) | [Longest Bitonic Subsequence](https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1) | ✅ Solved |
+| 94 | [`longest_common_substring.cpp`](./geeks_for_geeks/longest_common_substring.cpp) | [Longest Common Substring](https://www.geeksforgeeks.org/problems/longest-common-substring1452/1) | ✅ Solved |
+| 95 | [`longest_consecutive_subsequence.cpp`](./geeks_for_geeks/longest_consecutive_subsequence.cpp) | [Longest Consecutive Subsequence](https://www.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1) | ✅ Solved |
+| 96 | [`longest_repeating_subsequence.cpp`](./geeks_for_geeks/longest_repeating_subsequence.cpp) | [Longest Repeating Subsequence](https://www.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1) | ✅ Solved |
+| 97 | [`longest_subarray_sum_with_k_positive_and_negative.cpp`](./geeks_for_geeks/longest_subarray_sum_with_k_positive_and_negative.cpp) | [Longest Subarray with Sum K](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) | ✅ Solved |
+| 98 | [`longest_subsequence_adjacent_diff1.cpp`](./geeks_for_geeks/longest_subsequence_adjacent_diff1.cpp) | [Longest Subsequence with Adjacent Diff 0 or 1](https://www.geeksforgeeks.org/problems/longest-subsequence-with-difference/1) | ✅ Solved |
+| 99 | [`longest_substring_with_k_unique.cpp`](./geeks_for_geeks/longest_substring_with_k_unique.cpp) | [Longest K unique substrings](https://www.geeksforgeeks.org/problems/longest-k-unique-substrings/1) | ✅ Solved |
+| 100 | [`majority_element.cpp`](./geeks_for_geeks/majority_element.cpp) | [Majority Element](https://www.geeksforgeeks.org/problems/majority-element-1587115620/1) | ✅ Solved |
+| 101 | [`majority_element_2.cpp`](./geeks_for_geeks/majority_element_2.cpp) | [Majority Element](https://www.geeksforgeeks.org/problems/majority-element-1587115620/1) | ✅ Solved |
+| 102 | [`matrix_chain_multiplication.cpp`](./geeks_for_geeks/matrix_chain_multiplication.cpp) | [Matrix Chain Multiplication](https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1) | ✅ Solved |
+| 103 | [`max_consecutive_bit.cpp`](./geeks_for_geeks/max_consecutive_bit.cpp) | [Max Consecutive Bit](https://www.geeksforgeeks.org/problems/max-consecutive-one/1) | ✅ Solved |
+| 104 | [`max_digit_sum_number_1_to_n.cpp`](./geeks_for_geeks/max_digit_sum_number_1_to_n.cpp) | [Max Digit Sum Number in 1 to n](https://www.geeksforgeeks.org/problems/biggest-integer-having-maximum-digit-sum1704/1) | ✅ Solved |
+| 105 | [`max_min_in_a_bt.cpp`](./geeks_for_geeks/max_min_in_a_bt.cpp) | [Max and Min in Binary Tree](https://www.geeksforgeeks.org/problems/max-and-min-element-in-binary-tree/1) | ✅ Solved |
+| 106 | [`max_score_from_subarray_mins.cpp`](./geeks_for_geeks/max_score_from_subarray_mins.cpp) | [Max Score from Subarray Mins](https://www.geeksforgeeks.org/problems/max-score-from-subarray-mins/1) | ✅ Solved |
+| 107 | [`maximum_sum_of_subarray_size_k.cpp`](./geeks_for_geeks/maximum_sum_of_subarray_size_k.cpp) | [Max Sum Subarray of size K](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1) | ✅ Solved |
+| 108 | [`maximum_xor_of_subarray_size_k.cpp`](./geeks_for_geeks/maximum_xor_of_subarray_size_k.cpp) | [Max Xor Subarray of size K](https://www.geeksforgeeks.org/problems/max-xor-subarray-of-size-k/1) | ✅ Solved |
+| 109 | [`mean_of_range_in_array.cpp`](./geeks_for_geeks/mean_of_range_in_array.cpp) | [Mean of Range in Array](https://www.geeksforgeeks.org/problems/mean-of-range-in-array2123/1) | ✅ Solved |
+| 110 | [`median_of_bst.cpp`](./geeks_for_geeks/median_of_bst.cpp) | [Median of BST](https://www.geeksforgeeks.org/problems/median-of-bst/1) | ✅ Solved |
+| 111 | [`merge_2_bsts.cpp`](./geeks_for_geeks/merge_2_bsts.cpp) | [Merge Two BSTs](https://www.geeksforgeeks.org/problems/merge-two-bst-s/1) | ✅ Solved |
+| 112 | [`merge_k_sorted_arrays.cpp`](./geeks_for_geeks/merge_k_sorted_arrays.cpp) | [Merge k Sorted Arrays](https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1) | ✅ Solved |
+| 113 | [`merge_two_binary_max_heaps.cpp`](./geeks_for_geeks/merge_two_binary_max_heaps.cpp) | [Merge Two Binary Max Heaps](https://www.geeksforgeeks.org/problems/merge-two-binary-max-heaps/1) | ✅ Solved |
+| 114 | [`min_cost_to_make_two_strings_identical.cpp`](./geeks_for_geeks/min_cost_to_make_two_strings_identical.cpp) | [Min Cost To Make Two Strings Identical](https://www.geeksforgeeks.org/problems/minimum-cost-to-make-two-strings-identical1107/1) | ✅ Solved |
+| 115 | [`min_element_in_bst.cpp`](./geeks_for_geeks/min_element_in_bst.cpp) | [Minimum in BST](https://www.geeksforgeeks.org/problems/minimum-element-in-bst/1) | ✅ Solved |
+| 116 | [`minimum_cost_of_ropes.cpp`](./geeks_for_geeks/minimum_cost_of_ropes.cpp) | [Min Cost to Connect Ropes](https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1) | ✅ Solved |
+| 117 | [`minimum_moves_to_sort_permutation.cpp`](./geeks_for_geeks/minimum_moves_to_sort_permutation.cpp) | [Minimum Moves to Sort Permutation](https://www.geeksforgeeks.org/problems/morning-assembly3038/1) | ✅ Solved |
+| 118 | [`minimum_number_of_coins.cpp`](./geeks_for_geeks/minimum_number_of_coins.cpp) | [Minimum Coins of 1, 2, 5 and 10](https://www.geeksforgeeks.org/problems/-minimum-number-of-coins4426/1) | ✅ Solved |
+| 119 | [`minimum_number_of_deletions_in_a_string_to_make_it_palindrome.cpp`](./geeks_for_geeks/minimum_number_of_deletions_in_a_string_to_make_it_palindrome.cpp) | [Minimum Deletions for Palindrome](https://www.geeksforgeeks.org/problems/minimum-deletitions1648/1) | ✅ Solved |
+| 120 | [`minimum_platforms.cpp`](./geeks_for_geeks/minimum_platforms.cpp) | [Minimum Platforms](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) | ✅ Solved |
+| 121 | [`minimum_squares_with_full_cuts.cpp`](./geeks_for_geeks/minimum_squares_with_full_cuts.cpp) | [Minimum Squares with Full Cuts](https://www.geeksforgeeks.org/problems/squares-in-rectangle3340/1) | ✅ Solved |
+| 122 | [`missing_and_repeating.cpp`](./geeks_for_geeks/missing_and_repeating.cpp) | [Missing And Repeating](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1) | ✅ Solved |
+| 123 | [`missing_in_array.cpp`](./geeks_for_geeks/missing_in_array.cpp) | [Missing in Array](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1) | ✅ Solved |
+| 124 | [`move_all_zeroes_to_end.cpp`](./geeks_for_geeks/move_all_zeroes_to_end.cpp) | [Move All Zeroes to End](https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1) | ✅ Solved |
+| 125 | [`n_meetings_in_one_room.cpp`](./geeks_for_geeks/n_meetings_in_one_room.cpp) | [Maximum Meetings in One Room](https://www.geeksforgeeks.org/problems/maximum-meetings-in-one-room/1) | ✅ Solved |
+| 126 | [`next_permutation.cpp`](./geeks_for_geeks/next_permutation.cpp) | [Next Permutation](https://www.geeksforgeeks.org/problems/next-permutation5226/1) | ✅ Solved |
+| 127 | [`num_of_distinct_islands.cpp`](./geeks_for_geeks/num_of_distinct_islands.cpp) | [Number of Distinct Islands](https://www.geeksforgeeks.org/problems/number-of-distinct-islands/1) | ✅ Solved |
+| 128 | [`number_of_islands.cpp`](./geeks_for_geeks/number_of_islands.cpp) | [Number of Islands After K Operations](https://www.geeksforgeeks.org/problems/number-of-islands/1) | ✅ Solved |
+| 129 | [`numberofconclaves.cpp`](./geeks_for_geeks/numberofconclaves.cpp) | [Number Of Enclaves](https://www.geeksforgeeks.org/problems/number-of-enclaves/1) | ✅ Solved |
+| 130 | [`odd_or_even.cpp`](./geeks_for_geeks/odd_or_even.cpp) | [Odd or Even](https://www.geeksforgeeks.org/problems/odd-or-even3618/1) | ✅ Solved |
+| 131 | [`pairs_with_given_gcd_and_lcm.cpp`](./geeks_for_geeks/pairs_with_given_gcd_and_lcm.cpp) | [Pairs with Given GCD and LCM](https://www.geeksforgeeks.org/problems/possible-pairs1550/1) | ✅ Solved |
+| 132 | [`palindrome_string.cpp`](./geeks_for_geeks/palindrome_string.cpp) | [Palindrome String](https://www.geeksforgeeks.org/problems/palindrome-string0817/1) | ✅ Solved |
+| 133 | [`partitions_with_given_difference.cpp`](./geeks_for_geeks/partitions_with_given_difference.cpp) | [Partitions with Given Difference](https://www.geeksforgeeks.org/problems/partitions-with-given-difference/1) | ✅ Solved |
+| 134 | [`postfix_to_infix_problem.cpp`](./geeks_for_geeks/postfix_to_infix_problem.cpp) | [Postfix to Infix Conversion](https://www.geeksforgeeks.org/problems/postfix-to-infix-conversion/1) | ✅ Solved |
+| 135 | [`postfix_to_prefix_conversion.cpp`](./geeks_for_geeks/postfix_to_prefix_conversion.cpp) | [Postfix to Prefix Conversion](https://www.geeksforgeeks.org/problems/postfix-to-prefix-conversion/1) | ✅ Solved |
+| 136 | [`predecessor_and_successor_in_bst.cpp`](./geeks_for_geeks/predecessor_and_successor_in_bst.cpp) | [Predecessor and Successor in BST](https://www.geeksforgeeks.org/problems/predecessor-and-successor/1) | ✅ Solved |
+| 137 | [`prefix_to_infix_conversion.cpp`](./geeks_for_geeks/prefix_to_infix_conversion.cpp) | [Prefix to Infix Conversion](https://www.geeksforgeeks.org/problems/prefix-to-infix-conversion/1) | ✅ Solved |
+| 138 | [`prefix_to_postfix_conversion.cpp`](./geeks_for_geeks/prefix_to_postfix_conversion.cpp) | [Prefix to Postfix Conversion](https://www.geeksforgeeks.org/problems/prefix-to-postfix-conversion/1) | ✅ Solved |
+| 139 | [`preorder_and_bst.cpp`](./geeks_for_geeks/preorder_and_bst.cpp) | [Check Preorder of BST](https://www.geeksforgeeks.org/problems/preorder-traversal-and-bst4006/1) | ✅ Solved |
+| 140 | [`preorder_traversal_iterative.cpp`](./geeks_for_geeks/preorder_traversal_iterative.cpp) | [Iterative Preorder Traversal](https://www.geeksforgeeks.org/problems/preorder-traversal-iterative/1) | ✅ Solved |
+| 141 | [`print_all_lcs_sequences.cpp`](./geeks_for_geeks/print_all_lcs_sequences.cpp) | [All Longest Common Subsequences](https://www.geeksforgeeks.org/problems/print-all-lcs-sequences3413/1) | ✅ Solved |
+| 142 | [`print_lis.cpp`](./geeks_for_geeks/print_lis.cpp) | [Printing Longest Increasing Subsequence](https://www.geeksforgeeks.org/problems/printing-longest-increasing-subsequence/1) | ✅ Solved |
+| 143 | [`print_prime_factors_of_a_number.py`](./geeks_for_geeks/print_prime_factors_of_a_number.py) | [Prime Factors](https://www.geeksforgeeks.org/problems/prime-factors5052/1) | ✅ Solved |
+| 144 | [`printing_max_subarray_sum.cpp`](./geeks_for_geeks/printing_max_subarray_sum.cpp) | [Printing Maximum Subarray Sum](https://www.geeksforgeeks.org/problems/printing-maximum-subarray-sum/1) | ✅ Solved |
+| 145 | [`pythagorean_triplet.cpp`](./geeks_for_geeks/pythagorean_triplet.cpp) | [Pythagorean Triplet](https://www.geeksforgeeks.org/problems/pythagorean-triplet3018/1) | ✅ Solved |
+| 146 | [`queue_reversal.cpp`](./geeks_for_geeks/queue_reversal.cpp) | [Queue Reversal](https://www.geeksforgeeks.org/problems/queue-reversal/1) | ✅ Solved |
+| 147 | [`queue_using_arrays.cpp`](./geeks_for_geeks/queue_using_arrays.cpp) | [Queue Using Array](https://www.geeksforgeeks.org/problems/implement-queue-using-array/1) | ✅ Solved |
+| 148 | [`rat_in_a_maze.cpp`](./geeks_for_geeks/rat_in_a_maze.cpp) | [Rat in a Maze](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) | ✅ Solved |
+| 149 | [`replace_0s_with_Xs.cpp`](./geeks_for_geeks/replace_0s_with_Xs.cpp) | [Replace O's with X's](https://www.geeksforgeeks.org/problems/replace-os-with-xs/1) | ✅ Solved |
+| 150 | [`reverse_a_dll.cpp`](./geeks_for_geeks/reverse_a_dll.cpp) | [Reverse a Doubly Linked List](https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1) | ✅ Solved |
+| 151 | [`reverse_a_stack_using_recursion.cpp`](./geeks_for_geeks/reverse_a_stack_using_recursion.cpp) | [Reverse a Stack](https://www.geeksforgeeks.org/problems/reverse-a-stack/1) | ✅ Solved |
+| 152 | [`reverse_first_k_of_a_queue.cpp`](./geeks_for_geeks/reverse_first_k_of_a_queue.cpp) | [Reverse first K of a Queue](https://www.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1) | ✅ Solved |
+| 153 | [`rod_cutting.cpp`](./geeks_for_geeks/rod_cutting.cpp) | [Rod Cutting](https://www.geeksforgeeks.org/problems/rod-cutting0840/1) | ✅ Solved |
+| 154 | [`root_to_leaf_paths.cpp`](./geeks_for_geeks/root_to_leaf_paths.cpp) | [Root to Leaf Paths](https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1) | ✅ Solved |
+| 155 | [`rotate_array_by_d_places.cpp`](./geeks_for_geeks/rotate_array_by_d_places.cpp) | [Rotate Array](https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1) | ✅ Solved |
+| 156 | [`rotate_array_by_one.cpp`](./geeks_for_geeks/rotate_array_by_one.cpp) | [Rotate Array by One](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | ✅ Solved |
+| 157 | [`rotate_matrix_by_90_degree.cpp`](./geeks_for_geeks/rotate_matrix_by_90_degree.cpp) | [Rotate by 90 degree](https://www.geeksforgeeks.org/problems/rotate-by-90-degree-1587115621/1) | ✅ Solved |
+| 158 | [`row_with_max_1s.cpp`](./geeks_for_geeks/row_with_max_1s.cpp) | [Row with Max 1s in Rowwise Sorted](https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1) | ✅ Solved |
+| 159 | [`search_in_a_LL.cpp`](./geeks_for_geeks/search_in_a_LL.cpp) | [Search in Linked List](https://www.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1) | ✅ Solved |
+| 160 | [`search_insert_position_of_k_in_sorted_array.cpp`](./geeks_for_geeks/search_insert_position_of_k_in_sorted_array.cpp) | [Sorted Insert Position](https://www.geeksforgeeks.org/problems/search-insert-position-of-k-in-a-sorted-array/1) | ✅ Solved |
+| 161 | [`set_matrix_zeroes.cpp`](./geeks_for_geeks/set_matrix_zeroes.cpp) | [Set Matrix Zeros](https://www.geeksforgeeks.org/problems/set-matrix-zeroes/1) | ✅ Solved |
+| 162 | [`set_the_rightmost_unset_bit.cpp`](./geeks_for_geeks/set_the_rightmost_unset_bit.cpp) | [Set Rightmost Unset Bit](https://www.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1) | ✅ Solved |
+| 163 | [`shortest_job_first.cpp`](./geeks_for_geeks/shortest_job_first.cpp) | [Shortest Job first](https://www.geeksforgeeks.org/problems/shortest-job-first/1) | ✅ Solved |
+| 164 | [`size_of_binary_tree.cpp`](./geeks_for_geeks/size_of_binary_tree.cpp) | [Size of Binary Tree](https://www.geeksforgeeks.org/problems/size-of-binary-tree/1) | ✅ Solved |
+| 165 | [`smallest_sum_continguous_subarray.cpp`](./geeks_for_geeks/smallest_sum_continguous_subarray.cpp) | [Minimum Sum Subarray](https://www.geeksforgeeks.org/problems/smallest-sum-contiguous-subarray/1) | ✅ Solved |
+| 166 | [`smallest_window_containing_0_1_2.cpp`](./geeks_for_geeks/smallest_window_containing_0_1_2.cpp) | [Smallest window containing 0, 1 and 2](https://www.geeksforgeeks.org/problems/smallest-window-containing-0-1-and-2--170637/1) | ✅ Solved |
+| 167 | [`sort_0s_1s_2s.cpp`](./geeks_for_geeks/sort_0s_1s_2s.cpp) | [Sort 0s, 1s and 2s](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) | ✅ Solved |
+| 168 | [`sort_a_ll_of_0s_1s_2s.cpp`](./geeks_for_geeks/sort_a_ll_of_0s_1s_2s.cpp) | [Sort a linked list of 0s, 1s and 2s](https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1) | ✅ Solved |
+| 169 | [`sort_a_stack_using_recursion.cpp`](./geeks_for_geeks/sort_a_stack_using_recursion.cpp) | [Sort a stack](https://www.geeksforgeeks.org/problems/sort-a-stack/1) | ✅ Solved |
+| 170 | [`sort_in_specific_order.cpp`](./geeks_for_geeks/sort_in_specific_order.cpp) | [Sort in specific order](https://www.geeksforgeeks.org/problems/sort-in-specific-order2422/1) | ✅ Solved |
+| 171 | [`sort_two_parts_sorted.cpp`](./geeks_for_geeks/sort_two_parts_sorted.cpp) | [Sort Two Parts Sorted](https://www.geeksforgeeks.org/problems/sort-the-half-sorted2157/1) | ✅ Solved |
+| 172 | [`spirally_traversing_a_matrix.cpp`](./geeks_for_geeks/spirally_traversing_a_matrix.cpp) | [Spirally Traversing a Matrix](https://www.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1) | ✅ Solved |
+| 173 | [`square_root.cpp`](./geeks_for_geeks/square_root.cpp) | [Square Root](https://www.geeksforgeeks.org/problems/square-root/1) | ✅ Solved |
+| 174 | [`square_root_bs.cpp`](./geeks_for_geeks/square_root_bs.cpp) | [Square Root](https://www.geeksforgeeks.org/problems/square-root/1) | ✅ Solved |
+| 175 | [`subarrays_with_k_distinct_integers.cpp`](./geeks_for_geeks/subarrays_with_k_distinct_integers.cpp) | [Subarrays with K Different Integers](https://www.geeksforgeeks.org/problems/subarrays-with-k-different-integers/1) | ✅ Solved |
+| 176 | [`subarrays_with_sum_k.cpp`](./geeks_for_geeks/subarrays_with_sum_k.cpp) | [Subarrays with sum K](https://www.geeksforgeeks.org/problems/subarrays-with-sum-k/1) | ✅ Solved |
+| 177 | [`subset_sum_problem.cpp`](./geeks_for_geeks/subset_sum_problem.cpp) | [Subset Sum Problem](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | ✅ Solved |
+| 178 | [`subsets.cpp`](./geeks_for_geeks/subsets.cpp) | [Distinct Subsets](https://www.geeksforgeeks.org/problems/subset-sum-ii/1) | ✅ Solved |
+| 179 | [`subsets_sums.cpp`](./geeks_for_geeks/subsets_sums.cpp) | [Subset Sums](https://www.geeksforgeeks.org/problems/subset-sums2234/1) | ✅ Solved |
+| 180 | [`substrings_with_k_distinct.cpp`](./geeks_for_geeks/substrings_with_k_distinct.cpp) | [Count number of substrings](https://www.geeksforgeeks.org/problems/count-number-of-substrings4528/1) | ✅ Solved |
+| 181 | [`sum_of_binary_tree.cpp`](./geeks_for_geeks/sum_of_binary_tree.cpp) | [Sum of Binary Tree](https://www.geeksforgeeks.org/problems/sum-of-binary-tree/1) | ✅ Solved |
+| 182 | [`sum_of_elements_between_k1_and_k2_smallest_element.cpp`](./geeks_for_geeks/sum_of_elements_between_k1_and_k2_smallest_element.cpp) | [Sum Between k1'th and k2'th Smallest](https://www.geeksforgeeks.org/problems/sum-of-elements-between-k1th-and-k2th-smallest-elements3133/1) | ✅ Solved |
+| 183 | [`sum_of_k_smallest_elements_in_bst.cpp`](./geeks_for_geeks/sum_of_k_smallest_elements_in_bst.cpp) | [Sum of k smallest in BST](https://www.geeksforgeeks.org/problems/sum-of-k-smallest-elements-in-bst3029/1) | ✅ Solved |
+| 184 | [`sum_of_nodes_in_bst_range.cpp`](./geeks_for_geeks/sum_of_nodes_in_bst_range.cpp) | [Sum of Nodes in BST Range](https://www.geeksforgeeks.org/problems/range-sum-of-bst/1) | ✅ Solved |
+| 185 | [`sum_of_pariwise_ands.cpp`](./geeks_for_geeks/sum_of_pariwise_ands.cpp) | [Sum of pairwise AND](https://www.geeksforgeeks.org/problems/sum-of-pairwise-ands5271/1) | ✅ Solved |
+| 186 | [`swap_two_numbers.cpp`](./geeks_for_geeks/swap_two_numbers.cpp) | [Swap Two Numbers](https://www.geeksforgeeks.org/problems/swap-the-numbers/1) | ✅ Solved |
+| 187 | [`top_view_of_binary_tree.cpp`](./geeks_for_geeks/top_view_of_binary_tree.cpp) | [Top View of Binary Tree](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1) | ✅ Solved |
+| 188 | [`topo_sort.cpp`](./geeks_for_geeks/topo_sort.cpp) | [Topological Sort](https://www.geeksforgeeks.org/problems/topological-sort/1) | ✅ Solved |
+| 189 | [`tower_of_hanoi.cpp`](./geeks_for_geeks/tower_of_hanoi.cpp) | [Tower Of Hanoi](https://www.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1) | ✅ Solved |
+| 190 | [`two_equal_sum_subarrays.cpp`](./geeks_for_geeks/two_equal_sum_subarrays.cpp) | [Two Equal Sum Subarrays](https://www.geeksforgeeks.org/problems/split-an-array-into-two-equal-sum-subarrays/1) | ✅ Solved |
+| 191 | [`two_odd_occuring.cpp`](./geeks_for_geeks/two_odd_occuring.cpp) | [Two odd Occuring](https://www.geeksforgeeks.org/problems/two-numbers-with-odd-occurrences5846/1) | ✅ Solved |
+| 192 | [`two_sum_pairf_of_nums_equal_to_target.cpp`](./geeks_for_geeks/two_sum_pairf_of_nums_equal_to_target.cpp) | [Key Pair](https://www.geeksforgeeks.org/problems/key-pair5616/1) | ✅ Solved |
+| 193 | [`two_water_jug_problem.cpp`](./geeks_for_geeks/two_water_jug_problem.cpp) | [Two water Jug problem](https://www.geeksforgeeks.org/problems/two-water-jug-problem3402/1) | ✅ Solved |
+| 194 | [`unbounded_knapsack.cpp`](./geeks_for_geeks/unbounded_knapsack.cpp) | [Knapsack with Duplicate Items](https://www.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1) | ✅ Solved |
+| 195 | [`undirected_graph_cycle.cpp`](./geeks_for_geeks/undirected_graph_cycle.cpp) | [Undirected Graph Cycle](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) | ✅ Solved |
+| 196 | [`union_of_two_sorted_arrays.cpp`](./geeks_for_geeks/union_of_two_sorted_arrays.cpp) | [Union of 2 Sorted Arrays](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1) | ✅ Solved |
+| 197 | [`unique_binary_tree_requirements.cpp`](./geeks_for_geeks/unique_binary_tree_requirements.cpp) | [Unique Binary Tree Requirements](https://www.geeksforgeeks.org/problems/unique-binary-tree-requirements/1) | ✅ Solved |
+| 198 | [`unique_number_1.cpp`](./geeks_for_geeks/unique_number_1.cpp) | [Find Unique Number](https://www.geeksforgeeks.org/problems/find-unique-number/1) | ✅ Solved |
+| 199 | [`unoccupied_computers.cpp`](./geeks_for_geeks/unoccupied_computers.cpp) | [Unoccupied Computers](https://www.geeksforgeeks.org/problems/unoccupied-computers-1646661078/1) | ✅ Solved |
+| 200 | [`values_with_equal_array_remainders.cpp`](./geeks_for_geeks/values_with_equal_array_remainders.cpp) | [Values with Equal Array Remainders](https://www.geeksforgeeks.org/problems/k-modulus-array-element0255/1) | ✅ Solved |
+| 201 | [`visit_leaves_with_budget.cpp`](./geeks_for_geeks/visit_leaves_with_budget.cpp) | [Visit Leaves with Budget](https://www.geeksforgeeks.org/problems/leaf-under-budget/1) | ✅ Solved |
+| 202 | [`ways_to_reach_origin.cpp`](./geeks_for_geeks/ways_to_reach_origin.cpp) | [Paths to Reach Origin](https://www.geeksforgeeks.org/problems/paths-to-reach-origin3850/1) | ✅ Solved |
+| 203 | [`y_intersection_linked_list.cpp`](./geeks_for_geeks/y_intersection_linked_list.cpp) | [Intersection Point in Y Shaped Linked Lists](https://www.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1) | ✅ Solved |
 
 ## Coding Ninjas
 
